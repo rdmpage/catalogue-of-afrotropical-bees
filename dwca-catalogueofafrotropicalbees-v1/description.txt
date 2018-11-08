@@ -1,0 +1,927 @@
+id	description	type
+699	Visits flowers of: Euphorbia sp.	Ecology
+3152	Visits flowers of: Agrostis tremula, Andropogon gayanus	Ecology
+3172	Visits flowers of: Aloe littoralis, Bauhinia purpurea, Bougainvillea sp., Cleome angustifolia, Combretum sp., Commiphora sp., Crotalaria sp., Lathyrus sp., Monechma genistifolium, Petunia sp., Phaseolus vulgaris, Sesbania bispinosa, Tecoma sp.	Ecology
+102886	Visits flowers of: Ophiocolea floribunda, Phellolophium madagascariense (Phellolophium madagascariense), Psychotria sp., Tournefortia sp.	Ecology
+102925	Visits flowers of: Acacia farnesiana, Mapouria aegialodes	Ecology
+102933	Visits flowers of: Cheiridopsis denticulata, Mesembryanthemum guerichianum, Ruschia elineata	Ecology
+102938	Visits flowers of: Leipoldtia schultzei, Osteospermum sinuatum, Ruschia elineata	Ecology
+103035	Visits flowers of: Cissus producta, Cissus sp., Dacryodes edulis, Haronga madagascariensis, Ipomoea sp., Mangifera indica, Stachytarpheta angustifolia	Ecology
+103039	Visits flowers of: Aloe	Ecology
+103074	Visits flowers of: Cheiridopsis denticulata, Euphorbia mauritanica, Leipoldtia schultzei, Ruschia cymosa, Ruschia elineata, Zygophyllum meyeri	Ecology
+103114	Visits flowers of: Capsicum frutescens, Emilia citrina	Ecology
+103143	Visits flowers of: Geigeria sp., Vernonia sp.	Ecology
+103203	Visits flowers of: Hieracium capense, Zygophyllum depauperatum	Ecology
+103217	Visits flowers of: Sida acuta, Sonchus	Ecology
+103236	Visits flowers of: Commicarpus helenae, Heliotropium ramosissimum, Hibiscus, Lycopersicon lycopersicum (tomato), Polycarpaea nivea, Ricinus communis (castor oil plant), Sesuvium portulacastrum, Solanaceae (shatta plant), Tamarix senegalensis, Trifolium alexandrinum (berseem), Zygophyllum simplex	Ecology
+103289	Visits flowers of: Moraea unguiculata	Ecology
+103298	Visits flowers of: Capsicum frutescens, Compositae, Emilia citrina	Ecology
+103339	Visits flowers of: Moraea fugax fugax	Ecology
+103369	Visits flowers of: Heterotis decumbens, Otomeria guineensis, Solenostemon sp.	Ecology
+103413	Visits flowers of: Anacardiaceae, Borreria verticillata, Compositae, Croton hirtus, Elaeis guineensis, Haronga madagascariensis, Lophira sp., Mangifera indica, Persea americana, Plumeria rubra, Sesamum sp., Solenostemon sp., Ziziphus mauritiana	Ecology
+103442	Visits flowers of: Ageratum conyzoides, Sida acuta	Ecology
+103499	Visits flowers of: Gossypium sp. (cotton)	Ecology
+103518	Visits flowers of: Conicosia elongata, Mesembryanthemum guerichianum, Ruschia elineata	Ecology
+103524	Visits flowers of: Hermbstaedtia glauca, Ruschia robusta, Zygophyllum retrofractum	Ecology
+103535	Visits flowers of: Asystasia sp., Cissus producta, Cissus sp., Dialium soyauxii, Elaeis guineensis, Haronga madagascariensis, Heterotis decumbens, Persea americana	Ecology
+103571	Visits flowers of: Dacryodes edulis, Haronga madagascariensis, Ipomoea sp., Leea guineensis, Mangifera indica	Ecology
+103580	Visits flowers of: Dombeya sp., Ophiocolea floribunda	Ecology
+103586	Visits flowers of: Acalypha sp., Haronga madagascariensis, Mikania cordata, Stachytarpheta angustifolia, Urena lobata	Ecology
+103607	Visits flowers of: Crotalaria confusa, Thalia welwitschii	Ecology
+106378	Visits flowers of: Borreria verticillata, Cissus coursii, Lamiaceae, Stylosanthes guianensis	Ecology
+106396	Visits flowers of: Cajanus cajan, Centrosema pubescens, Crotalaria pallida, Crotalaria sp., Guiera senegalensis, Phaseolus coccineus	Ecology
+106409	Visits flowers of: Ageratum sp., Borreria verticillata, Cassia siamea, Chrysopogon sp., Combretum racemosum, Elephantopus mollis, Haronga madagascariensis, Lantana camara, Ludwigia octovalvis, Mangifera indica, Polygonum pulchrum, Stachytarpheta angustifolia, Stachytarpheta sp., Stylosanthes sp., Triumfetta eriophlebia, Vernonia conferta	Ecology
+110307	Visits flowers of: Tecoma sp. (Takoma)	Ecology
+110342	Visits flowers of: Crotalaria argyraea, Deverra denudata, Polygala virgata	Ecology
+110357	Visits flowers of: Mentha sp.	Ecology
+110386	Visits flowers of: Asclepias buchenaviana, Cleome suffruticosa, Crotalaria podocarpa, Crotalaria sp., Crotalaria virgultalis, Indigofera filipes, Monechma sp., Tephrosia oxygona, Wiborgia sp.	Ecology
+112563	Visits flowers of: Haronga madagascariensis, Stachytarpheta angustifolia	Ecology
+112568	Visits flowers of: Dalbergia bracteolata	Ecology
+103704	Visits flowers of: Acalypha sp., Ammannia sp., Borreria sp., Commelina benghalensis, Dialium soyauxii, Dissotis brazzae, Haronga madagascariensis, Indigofera capitata, Ipomoea batatas, Lycopersicon lycopersicum, Stachytarpheta angustifolia, Talinum portulacifolium, Zornia durumuensis	Ecology
+103733	Visits flowers of: Acacia farnesiana, Compositae, Dichrostachys perrieriana, Mimosa pigra, Nervilia crociformis, Phytolacca dodecandra, Prunus sp., Salvia coccinea, Tetracera rutenbergi, Zygophyllum depauperatum	Ecology
+103769	Visits flowers of: Arecaceae (Palmaceae), Vinca sp.	Ecology
+103800	Visits flowers of: Ipomoea sp., Triumfetta eriophlebia	Ecology
+103873	Visits flowers of: Ruschia cymosa	Ecology
+103881	Visits flowers of: Grielum sp., Neuradopsis sp.	Ecology
+103885	Visits flowers of: Crotalaria sp., Cucurbitaceae (curcubit), Monechma sp., Salvia sp., Sesamum capense, Sesamum sp., Sesamum tryphyllum	Ecology
+103894	Visits flowers of: Campanula sp., Sisyndite sp., Sisyndite spartea	Ecology
+103904	Visits flowers of: Aizoaceae, Blepharis obmitrata, Crotalaria sp., Sesuvium sesuvioides, Tribulocarpus dimorphanthus, Tribulocarpus sp., Tribulus sp.	Ecology
+103973	Visits flowers of: Aizoaceae, Campanulaceae, Galenia sarcophylla, Trianthema crystallina, Wahlenbergia sp.	Ecology
+103984	Visits flowers of: Indigofera alternans, Indigofera charlieriana, Indigofera filipes	Ecology
+104099	Visits flowers of: Indigofera sp.	Ecology
+104119	Visits flowers of: Aspalathus divaricata, Aspalathus linearis, Aspalathus spinescens, Crassula subaphylla var. subaphylla, Euphorbia decussata, Hermbstaedtia glauca, Indigofera longispina, Indigofera spicata, Osteospermum microcarpum, Ruschia robusta, Zygophyllum sp.	Ecology
+104121	Visits flowers of: Arctotheca calendula, Ballota africana, Berkheya fruticosa, Chrysocoma ciliata, Didelta carnosa carnosa, Didelta spinosa, Gazania sp., Hirpicium alienatum, Oncosiphon piluliferum, Osteospermum sinuatum, Othonna arbuscula, Pteronia divaricata, Pteronia incana, Ruschia spinosa, Senecio cardaminifolius	Ecology
+104170	Visits flowers of: Aspalathus linearis, Ballota africana, Berkheya sp., Medicago sativa (lucerne), Melolobium candicans, Trichodesma africanum	Ecology
+104190	Visits flowers of: Aloe ferox, Athanasia sp., Athanasia trifurcata, Senecio burchellii, Senecio rosmarinifolius	Ecology
+104195	Visits flowers of: Euphorbia mauritanica, Herrea sp., Othonna arbuscula, Pteronia incana, Senecio cardaminifolius, Senecio sp.	Ecology
+104205	Visits flowers of: Deverra aphylla, Deverra denudata, Hermannia engleri, Hermannia modesta, Indigofera filipes, Limeum sp.	Ecology
+104206	Visits flowers of: Hermbstaedtia glauca, Indigofera longispina, Lessertia diffusa, Lessertia spinescens, Prenia pallens	Ecology
+104210	Visits flowers of: Wahlenbergia sp.	Ecology
+104246	Visits flowers of: Berkheya fruticosa, Hirpicium alienatum, Pteronia incana	Ecology
+104279	Visits flowers of: Arctotheca calendula, Chrysocoma ciliata, Leipoldtia sp., Leysera gnaphalodes, Osteospermum oppositifolium, Pteronia divaricata, Senecio sp.	Ecology
+104287	Visits flowers of: Berkheya heterophylla, Compositae, Gazania sp., Lasiospermum bipinnatum	Ecology
+104321	Visits flowers of: Berkheya fruticosa, Hirpicium alienatum	Ecology
+104393	Visits flowers of: Acacia karroo, Aspalathus chortophila, Aspalathus linearis, Aspalathus pulicifolia, Aspalathus spinescens, Berkheya heterophylla, Blepharis capensis, Bulbine frutescens, Calpurnia glabrata, Crotalaria podocarpa, Crotalaria sp., Grewia occidentalis, Wiborgia sp.	Ecology
+104401	Visits flowers of: Aspalathus subtingens, Aspalathus undulata, Lebeckia sericea, Melolobium candicans, Psoralea pinnata	Ecology
+104590	Visits flowers of: Acacia farnesiana, Ageratum conyzoides, Dichaetanthera sp., Psychotria bullulata	Ecology
+104595	Visits flowers of: Cuphea hyssopifolia	Ecology
+104603	Visits flowers of: Costus	Ecology
+104645	Visits flowers of: Vernonia sp.	Ecology
+104649	Visits flowers of: Hypoestes forskaolii, Stylosanthes guianensis, Trichodesma zeylanicum	Ecology
+104657	Visits flowers of: Ageratum conyzoides, Chassalia sp., Clidemia hirta, Dichaetanthera sp., Exacum divaricatum, Ophiocolea floribunda, Psychotria sp., Urena lobata	Ecology
+104673	Visits flowers of: Dionycha bojerii, Plectranthus sp., Psychotria polyphylla, Schismatoclada sp.	Ecology
+104707	Visits flowers of: Bidens pilosa, Borreria verticillata, Calliandra calothyrsus, Croton macrostachys, Dacryodes edulis, Drypetes sp., Elephantopus mollis, Faurea saligna, Haronga madagascariensis, Ipomoea sp., Markhamia lutea, Myrianthus holstii, Nuxia congesta, Passiflora edulis, Prunus africana, Sesamum sp., Syzygium guineense, Urena lobata, Vernonia conferta, Vernonia sp.	Ecology
+104753	Visits flowers of: Borreria verticillata, Cissus producta, Dacryodes edulis, Gouania longipetala, Haronga madagascariensis, Mangifera indica	Ecology
+105256	Visits flowers of: Campylospermum obtusifolium, Medinilla chermezonii, Orchidaceae	Ecology
+105259	Visits flowers of: Acanthospermum hispidum, Borreria verticillata, Compositae, Euphorbia heterophylla, Floscopa africana, Grewia flavescens, Ipomoea, Solanum panduriforme, Urena lobata	Ecology
+105281	Visits flowers of: Asystasia gangetica, Borreria verticillata, Brachiaria jubata, Sida rhombifolia, Zea mays	Ecology
+105321	Visits flowers of: Protea sp.	Ecology
+105338	Visits flowers of: Aloe sp.	Ecology
+105358	Visits flowers of: Acacia bequaerti, Combretum sp., Protea sp.	Ecology
+105394	Visits flowers of: Ziziphus mauritiana	Ecology
+105404	Visits flowers of: Aloe framesii, Aloe sp., Aloe striatus, Zygophyllum sp.	Ecology
+105586	Visits flowers of: Acacia farnesiana, Fabaceae (Papilionaceae), Gouania sp., Helinus integrifolius, Psiadia altissima, Terminalia pumila, Urena lobata, Ziziphus sp.	Ecology
+105594	Visits flowers of: Aspalathus sp., Buchenroedera sp., Erodium sp., Geissorhiza aspera, Geranium sp., Moraea gawleri (Moraea ?gawleri), Ranunculus plebeus, Tribulus sp., Zygophyllum sp.	Ecology
+105605	Visits flowers of: Acacia sp., Adenolobus pechuelii, Aptosimum decumbens, Aptosimum sp., Boerhavia deserticola, Compositae (daisy), Corbichonia rubriviolacea, Cucumis sp., Gisekia africana, Heliotropium rariflorum, Hermannia modesta, Hermannia sp., Indigofera rautanenii, Indigofera sp., Limeum arqute-carinatum, Peliostomum leucorrhizum, Sesuvium sesuvioides, Trianthema crystallina, Tribulus sp., Zygophyllum simplex	Ecology
+105609	Visits flowers of: Indigofera sp.	Ecology
+105736	Visits flowers of: Zygophyllum depauperatum	Ecology
+105819	Visits flowers of: Mapouria aegialodes	Ecology
+105835	Visits flowers of: Anthemis sp., Fabaceae, Medicago sativa, Tamarix sp.	Ecology
+105843	Visits flowers of: Emilia citrina	Ecology
+105846	Visits flowers of: Portulaca sp.	Ecology
+105854	Visits flowers of: Phellolophium madagascariense	Ecology
+105910	Visits flowers of: Balanites aegyptiaca, Cassia obovata, Cassia sp., Chrozophora brocchiana, Cleome viscosa, Indigofera sp., Landolphia sp. (Landolfia sp.), Ocimum sp., Sesamum sp., Tamarix sp., Tribulus terrestris, Ziziphus sp.	Ecology
+105938	Visits flowers of: Alternanthera sessilis, Aptenia cordifolia, Aspilia bojeri, Lobelia agrestis, Lobelia fervens, Mapouria aegialodes, Mollugo nudicaulis, Nervilia petraea, Ocimum basilicum, Oldenlandia sp., Phylohydrax madagascariensis, Portulaca sp.	Ecology
+105971	Visits flowers of: Acanthospermum hispidum, Antidesma venosum, Balanites aegyptiaca, Borreria verticillata, Canthium sp., Cassia sp., Crateva religiosa, Dialium soyauxii, Diodia vaginalis, Guiera senegalensis (Guieria senegalensis), Irvingia smithii, Mangifera indica, Mitracarpus villosa, Vitex doniana	Ecology
+105986	Visits flowers of: Indigofera sp.	Ecology
+106006	Visits flowers of: Athanasia sp., Galenia africana, Wahlenbergia ecklonii	Ecology
+106024	Visits flowers of: Emilia citrina, Mikania sp., Weinmannia rutenbergi	Ecology
+106031	Visits flowers of: Enhydra sessilis, Ipomoea pes-caprae, Launaea bellidifolia, Phylohydrax madagascariensis, Portulaca sp., Scaevola plumieri, Scaevola taccada	Ecology
+106033	Visits flowers of: Aerva javanica, Balanites aegyptiaca, Borreria verticillata, Boswellia sacra, Cassia obovata, Cassia sp., Cucurbita sp., Euphorbia pubescens, Fabaceae, Gossypium sp., Heliotropium bacciferum, Indigofera sp., Medicago sativa, Mitracarpus scaber, Retama raetam, Sesamum sp., Tamarix sp., Vicia faba, Ziziphus sp.	Ecology
+106040	Visits flowers of: Cassia obovata, Euphorbia pubescens, Fabaceae, Gossypium sp., Medicago sativa, Prosopis juliflora, Tamarix senegalensis, Tamarix sp.	Ecology
+106042	Visits flowers of: Acacia farnesiana, Harungana madagascariensis, Mapouria aegialodes	Ecology
+106046	Visits flowers of: Ipomoea pes-caprae, Parkinsonia aculeata	Ecology
+106178	Visits flowers of: Borreria verticillata, Cissus producta, Emilia coccinea, Polygonum lanigerum	Ecology
+106197	Visits flowers of: Ageratum sp., Chamaecrista sp., Commelina madagascarina, Compositae, Dialypetalum floribundum, Emilia citrina, Hieracium capense, Indigofera sp., Inula speciosa, Kaliphora madagascariensis, Phellolophium madagascariense, Polystachya rosea, Psychotria sp., Solenostemon bojeri, Stachys sp., Taraxacum vulgare, Vernonia garnieriana	Ecology
+106199	Visits flowers of: Borreria verticillata	Ecology
+106274	Visits flowers of: Aponogeton fenestralis, Borreria verticillata, Dombeya sp., Floscopa glomerata, Ranunculus pinnatus, Spermacoce scandens	Ecology
+106485	Visits flowers of: Acanthospermum hispidum, Asystasia gangetica, Borreria verticillata, Compositae, Croton hirtus, Elaeis guineensis, Elaeis sp. (oil palm), Elephantopus mollis, Emilia coccinea, Floscopa africana, Haronga madagascariensis, Heterotis decumbens, Indigofera sp., Ipomoea sp., Jussiaea stenorraphe, Lamiaceae (Labiatae), Leea guineensis, Mangifera indica, Momordica sp., Psychotria sp., Sesamum radiatum, Stachytarpheta angustifolia, Triumfetta eriophlebia, Triumfetta sp., Urena lobata, Vernonia conferta, Virectaria multiflora	Ecology
+106521	Visits flowers of: Lophira sp.	Ecology
+106624	Visits flowers of: Indigofera longispina	Ecology
+106642	Visits flowers of: Acacia auriculiformis, Ageratum conyzoides, Ageratum sp., Aloe sp., Amaranthus spinosus, Aniseia martinicensis, Asystasia, Boerhavia diffusa, Borreria sp., Borreria verticillata, Brassica oleracea, Capsicum annuum, Cassia occidentalis, Cissus oreophila, Cissus producta, Cissus sp., Cleome viscosa, Combretum racemosum, Compositae, Croton hirtus, Dialium soyauxii, Elephantopus mollis, Euphorbia heterophylla, Floscopa africana, Guiera senegalensis, Indigofera paniculata, Indigofera sp., Ipomoea involucrata, Ipomoea sp., Jussiaea suffruticosa, Lycopersicon lycopersicum, Mangifera indica, Melochia corchorifolia, Mikania cordata, Mimosa pudica, Momordica, Otomeria guineensis, Physalis angulata, Scoparia dulcis, Solanum incanum, Solenostemon sp., Stachytarpheta angustifolia, Synedrella nodiflora, Talinum portulacifolium, Tridax procumbens, Triumfetta eriophlebia, Urena lobata, Vernonia conferta, Ziziphus mucronata	Ecology
+106713	Visits flowers of: Becium filamentosum, Crotalaria argyraea, Crotalaria virgultalis, Indigofera filipes, Indigofera rautanenii, Otoptera burchellii, Solanum capense, Tephrosia oxygona, Tribulus sp.	Ecology
+106752	Visits flowers of: Crotalaria micans, Crotalaria pallida, Crotalaria sp., Fabaceae (Papilionaceae), Lonchocarpus madagascariensis	Ecology
+106765	Visits flowers of: Borreria verticillata, Compositae, Dichostemma glaucescens, Harungana madagascariensis, Hyptis sp., Milletia sp., Mimosa pudica, Stachytarpheta angustifolia, Triumfetta eriophlebia	Ecology
+106907	Visits flowers of: Orchidaceae	Ecology
+107123	Visits flowers of: Drosanthemum sp., Fabaceae (Papilionaceae), Grielum sp., Lasiospermum bipinnatum, Pelargonium myrrhifolium, Polymita albiflora, Selago corymbosa, Senecio sp., Wiborgia sp., Zygophyllum retrofractum	Ecology
+107214	Visits flowers of: Acacia farnesiana	Ecology
+107224	Visits flowers of: Aspalathus subtingens	Ecology
+107320	Visits flowers of: Arrabidaea magnifica, Bauhinia sp., Bixa orellana, Cajanus cajan, Cassia abbreviata, Cassia alata, Cassia fistula, Cassia hirsuta, Cassia obtusifolia, Cassia occidentalis, Cassia sp., Centrosema pubescens, Clitoria ternatea, Coffea sp., Costus lucanusianus, Crotalaria sp., Dichaetanthera sp., Dissotis brazzae, Eulophia horsfallii, Heterotis decumbens, Ipomoea involucrata, Markhamia, Mimosa pudica, Pachyrhizus erosus, Passiflora edulis, Phaseolus coccineus, Physocephala bimarginipennis, Psophocarpus tetragonolobus, Pueraria phaseoloides, Solanum melongena, Sophora inhambanensis, Sophora tomentosa, Spathodea campanulata, Stenolobium stans, Tephrosia vogelii, Tithonia sp., Vigna unguiculata	Ecology
+107336	Visits flowers of: Acacia karroo, Agave sp., Anchusa capensis, Aspalathus linearis, Aspalathus spinescens, Calpurnia glabrata, Hermannia gariepina, Lamiaceae (labiate), Lebeckia multiflora, Lebeckia sericea, Lobostemon trichotomus, Moraea cookii, Pisum sativum (pea), Populus sp., Prenia pallens, Salvia dentata, Tipuana tipu, Zygophyllum morgsana	Ecology
+107391	Visits flowers of: Calpurnia subdecandra, Cassia abbreviata, Cassia alata, Centrosema pubescens, Dissotis brazzae, Duparquetia orchidacea, Ipomoea leari (Ipomoea learii), Ipomoea sp., Lagerstroemia indica, Lantana camara, Leptoderris sp., Macadamia sp., Pachyrhizus erosus, Psophocarpus tetragonolobus, Solenostemon sp., Stachytarpheta angustifolia, Tetraberlinia bifoliolata, Tithonia diversifolia, Triumfetta macrophylla	Ecology
+107467	Visits flowers of: Coffea sp.	Ecology
+107470	Visits flowers of: Dichaetanthera sp.	Ecology
+107495	Visits flowers of: Acacia caffra, Aspalathus spinescens, Blepharis capensis, Codon royenii, Grewia occidentalis, Hermannia scordifolia, Lebeckia sericea, Lycium sp., Mesembryanthemaceae, Otoptera burchellii, Peristrophe sp., Pisum sativum (pea), Sarcostemma viminale, Solanum sodomaeodes, Zygophyllum meyeri	Ecology
+107534	Visits flowers of: Borreria sp., Borreria verticillata, Elephantopus mollis, Emilia coccinea, Ocimum sp., Polygonum lanigerum var. africanum, Sesamum sp., Stachytarpheta angustifolia	Ecology
+107604	Visits flowers of: Aspalathus spinescens, Berkheya heterophylla, Berkheya sp., Cirsium vulgare, Crotalaria sp., Orchidaceae, Petalidium variabile, Psoralea pinnata, Senecio sp., Wahlenbergia undulata	Ecology
+107629	Visits flowers of: Aptenia cordifolia, Asystasia gangetica, Compositae, Cucumis sativus, Cyperus niveus, Erythroxylum platyclados, Ipomoea pes-caprae, Lantana camara, Lobelia agrestis, Nervilia crociformis, Nervilia petraea, Oldenlandia sp., Portulaca sp., Scaevola taccada, Solenangis cornuta, Strychnos myrtoides, Tetracera rutenbergi, Urena lobata	Ecology
+107639	Visits flowers of: Acacia karroo, Adenolobus pechuelii, Aloe ferox, Aloe sp., Aspalathus subtingens, Berkheya fruticosa, Berkheya sp., Blepharis capensis, Cleome suffruticosa, Codon sp., Cotyledon sp., Fabaceae (papilionate), Lamiaceae (labiate), Lebeckia sericea, Medicago sativa, Mesembryanthemaceae, Pisum sativum (pea), Pteronia incana, Ruschia cymosa, Sisyndite spartea, Zygophyllum meyeri, Zygophyllum morgsana	Ecology
+107684	Visits flowers of: Cassia didymobotrya, Cleome angustifolia, Combretum sp., Crotalaria podocarpa, Crotalaria sp., Tephrosia oxygona	Ecology
+107720	Visits flowers of: Gossypium sp.	Ecology
+107734	Visits flowers of: Asystasia sp., Cajanus cajan, Cassia abbreviata, Cassia alata, Clappertonia ficifolia, Clerodendron sp., Costus lucanusianus, Crotalaria sp., Dissotis brazzae, Eucalyptus robusta, Heterotis decumbens, Ipomoea asarifolia, Mimosa pudica, Phaseolus coccineus, Solanum melongena, Solanum sp., Stachytarpheta angustifolia, Tephrosia vogelii	Ecology
+107765	Visits flowers of: Pteronia incana	Ecology
+107810	Visits flowers of: Anchusa capensis, Berkheya carlinifolia, Berkheya heterophylla, Berkheya sp., Blepharis sp., Cirsium vulgare, Pentzia incana, Satyrium sp., Sphalmanthus sp.	Ecology
+107820	Visits flowers of: Dionycha bojerii, Gravesia vestita	Ecology
+107892	Visits flowers of: Acanthaceae, Adenolobus pechuelii (Aenolobus pechuelii), Brownanthus kuntzei, Cleome paxii, Cleome suffruticosa, Geigeria pectidea, Geranium sp., Hirpicium echinus, Jamesbrittenia canescens, Lamiaceae, Limonium sp., Mesembryanthemaceae, Monechma genistifolium, Plectranthus sp., Psilocaulon salicornioides, Psilocaulon sp., Sesuvium hydaspicum, Stoeberia sp., Trichodesma africanum, Vernonia fastigiata, Zygophyllum simplex, Zygophyllum stapffii	Ecology
+107908	Visits flowers of: Acacia caffra, Acacia karroo, Acrotome inflata, Aloe sp., Anchusa capensis, Aspalathus chortophila, Ballota africana, Blepharis capensis, Cyphia sp., Gladiolus orchidiflorus, Gladiolus sp., Limonium sp., Lycium sp., Mesembryanthemum crystallinum, Moraea algoensis, Moraea brevistyla, Paranomus bracteolaris, Pelargonium capitatum, Pelargonium myrrhifolium, Plectranthus madagascariensis, Plectranthus oribiensis, Prenia pallens, Psilocaulon acutisepalum, Psilocaulon subnodosum, Psoralea pinnata, Salvia dentata, Salvia sp., Senecio linifolius, Senecio longifolius, Sesamum sp., Solanaceae, Tritoniopsis sp., Zygophyllum cordifolium, Zygophyllum sp.	Ecology
+107911	Visits flowers of: Acacia caffra, Acacia karroo, Acanthopsis spathularis, Acrotome inflata, Aloe sp., Amoebophyllum angustum (Amaebophyllum anguata), Anchusa capensis, Aspalathus chortophila, Ballota africana, Berkheya fruticosa, Blepharis capensis, Blepharis extenuata, Cyphia sp., Gladiolus orchidiflorus, Heliophila lactea, Hermannia disermifolia, Hermannia gariepina, Hermannia sp., Hermannia trifurca, Hypertelis salsoloides, Lamiaceae (Labiatae), Lycium sp., Melolobium sp., Mesembryanthemaceae, Mesembryanthemum guerichianum, Nemesia sp., Paranomus bracteolaris (Paranomous bracteolarus), Pelargonium capitatum, Pelargonium myrrhifolium, Pelargonium sp., Peliostomum virgatum, Polymita albiflora, Prenia pallens, Psoralea pinnata, Ruschia elineata, Salvia dentata, Senecio linifolius, Trachyandra muricata, Tribulus zeyheri, Tritoniopsis sp., Wahlenbergia prostrata, Zygophyllum meyeri, Zygophyllum retrofractum, Zygophyllum sp.	Ecology
+107917	Visits flowers of: Blepharis capensis	Ecology
+107920	Visits flowers of: Blepharis capensis, Mesembryanthemum, Reseda sp.	Ecology
+107952	Visits flowers of: Pteronia incana	Ecology
+107965	Visits flowers of: Anchusa capensis, Berkheya fruticosa, Hermannia disermifolia, Hermannia disermifolia, Hermannia scordifolia, Hermannia sp., Hermannia vestita, Herrea sp., Lobostemon sp., Moraea brachygyne, Moraea ciliata, Zygophyllum divaricatum	Ecology
+107970	Visits flowers of: Cleome angustifolia, Senna italica	Ecology
+107977	Visits flowers of: Dissotis multiflora, Heterotis decumbens, Ipomoea sp., Lantana camara, Stachytarpheta angustifolia	Ecology
+107980	Visits flowers of: Blepharis obmitrata, Diascia patens, Hermannia disermifolia, Hermannia disermifolia, Herrea sp., Zygophyllum divaricatum	Ecology
+108066	Visits flowers of: Ageratum conyzoides, Cajanus cajan, Haronga madagascariensis, Maesa lanceolata, Nauclea latifolia	Ecology
+108329	Visits flowers of: Grewia sp., Tiliaceae	Ecology
+108433	Visits flowers of: Grielum humifusum, Senecio sp.	Ecology
+108502	Visits flowers of: Acanthaceae, Eulophia parviflora, Geranium sp., Gladiolus sp., Lamiaceae, Limonium sp., Lobelia sp., Moraea cookii, Plectranthus sp., Psilocaulon sp., Salvia dentata, Vernonia fastigiata	Ecology
+108524	Visits flowers of: Acanthaceae, Aptosimum arenarium, Becium filamentosum, Blepharis capensis, Blepharis diversispina, Blepharis obmitrata, Cleome angustifolia, Coleus x-hybridus (Coleus hybridus), Dissotis brazzae, Duranta repens, Indigofera capitata, Justicia flava, Lantana camara, Leea guineensis, Monechma genistifolium, Otomeria guineensis, Otoptera burchellii, Sesamum sp., Solenostemon sp., Stachytarpheta angustifolia, Talinum portulacifolium, Tribulus sp., Tristemma hirtum, Zinnia sp.	Ecology
+108542	Visits flowers of: Acanthaceae, Dissotis sp., Eucalyptus sp. (gum tree), Geigeria sp., Gladiolus sp., Lamiaceae (Labiaceae), Moraea inclinata, Othonna sp., Plectranthus sp., Rosa sp. (rose), Walafrida sp.	Ecology
+108554	Visits flowers of: Isoglossa sp., Plectranthus madagascariensis, Rosa sp. (rose)	Ecology
+108560	Visits flowers of: Acanthaceae, Disa versicolor, Gladiolus papilio, Lamiaceae (Labiaceae), Scabiosa sp., Themeda sp.	Ecology
+108570	Visits flowers of: Acacia caffra, Acanthaceae, Acanthopsis spathularis, Amoebophyllum angustum, Anchusa capensis, Aptosimum indivisum, Aptosimum spinescens, Bergia glomerata, Berkheya carlinifolia, Berkheya fruticosa, Berkheya rigida, Blepharis capensis, Blepharis extenuata, Cheiridopsis denticulata, Cleome paxii, Codon royenii, Dactylopsis digitata, Erepsia saturata, Geranium sp., Harpagophytum procumbens, Heliophila lactea, Hermannia disermifolia, Hermannia disermifolia, Hermannia trifurca, Hermbstaedtia glauca, Hirpicium alienatum, Hypertelis salsoloides, Lamiaceae (Labiatae), Lobostemon sp., Maerua schinzii, Malvaceae, Mesembryanthemum crystallinum, Mesembryanthemum guerichianum, Mesembryanthemum sp., Monechma mollissimum, Monechma sp., Moringa ovalifolia, Nemesia sp., Neuradopsis sp., Pelargonium sp., Peliostomum leucorrhizum, Peristrophe cernua, Petalidium sp., Polymita albiflora, Ruschia elineata, Sarcocaulon crassicaule, Senecio rosmarinifolius, Sesamum sp., Sesamum tryphyllum, Tribulus sp., Tribulus zeyheri, Wahlenbergia prostrata, Zygophyllum meyeri, Zygophyllum retrofractum, Zygophyllum sp.	Ecology
+108577	Visits flowers of: Acrotome inflata, Adenolobus pechuelii, Blepharis obmitrata, Cleome angustifolia, Cleome elegantissima, Cleome sp., Monechma genistifolium, Monechma mollissimum, Senna italica, Sesamum sp., Sesamum tryphyllum, Trichodesma angustifolium	Ecology
+108595	Visits flowers of: Ballota, Blepharis obmitrata, Cleome elegantissima, Crotalaria podocarpa, Crotalaria sp., Cucurbitaceae (curcubit), Hermannia modesta, Hermannia sp., Hirpicium sp., Indigofera filipes, Lessertia macrostachya, Limeum fenestratum, Monechma divaricatum, Monechma spartioides, Senna italica, Sesamum sp., Sesamum tryphyllum, Tephrosia burchellii, Tribulus sp., Trichodesma angustifolium	Ecology
+108596	Visits flowers of: Plectranthus ciliatus, Plectranthus madagascariensis, Plectranthus oribiensis	Ecology
+108624	Visits flowers of: Acanthaceae, Compositae, Geigeria, Othonna	Ecology
+108634	Visits flowers of: Acanthaceae, Asystasia sp., Bidens pilosa, Blepharis capensis, Citrullus lanatus, Cogniauxia podolaena, Dissotis brazzae, Ipomoea sp., Lantana camara, Limonium sp., Mimosa pudica, Stachytarpheta angustifolia	Ecology
+108672	Visits flowers of: Cleome angustifolia, Cleome angustifolia diandra	Ecology
+108684	Visits flowers of: Acalypha ornata, Berkheya heterophylla, Blepharis capensis, Cleome elegantissima, Cotyledon campanulata, Crotalaria sp., Lamiaceae (mint), Melastoma sp., Pentzia incana, Peristrophe cernua, Salvia disermas, Senna italica, Trichodesma angustifolium	Ecology
+108697	Visits flowers of: Plectranthus ciliatus, Plectranthus oribiensis	Ecology
+108719	Visits flowers of: Ageratum conyzoides, Asystasia gangetica, Campylospermum deltoideum, Chapeliera madagascariensis, Clerodendron sp., Coleus sp., Cosmos caudatus, Delonix boiviniana, Dionycha bojerii, Duranta repens, Dyckia frigida (Dykia frigida), Emilia citrina, Fabaceae (Papilionaceae), Gaillardia sp., Gonocrypta grevei, Mimosa pudica, Plectranthus, Salvia coccinea, Solenostemon bojeri, Stachytarpheta angustifolia, Stachytarpheta jamaicensis, Stachytarpheta sp., Uncarina leptocarpa, Ziziphus sp.	Ecology
+108730	Visits flowers of: Moraea inclinata	Ecology
+108897	Visits flowers of: Lebeckia sericea	Ecology
+108906	Visits flowers of: Trifolium alexandrinum	Ecology
+108937	Visits flowers of: Agrostis tremula	Ecology
+109018	Visits flowers of: Aeollanthus sp.	Ecology
+109088	Visits flowers of: Cajanus cajan, Centrosema pubescens, Crotalaria sp., Dacryodes edulis, Eulophia streptopetala, Mimosa pudica, Pachyrhizus erosus, Phaseolus coccineus, Psophocarpus tetragonolobus, Rafnia amplexicaulus, Stachytarpheta angustifolia, Vigna unguiculata	Ecology
+109177	Visits flowers of: Cajanus cajan, Pachyrhizus erosus	Ecology
+109187	Visits flowers of: Berkheya fruticosa, Cajanus cajan, Crotalaria sp., Euphorbia decussata, Lebeckia sericea, Mangifera indica, Milletia sp., Phaseolus coccineus, Psophocarpus tetragonolobus, Pueraria phaseoloides, Stachytarpheta angustifolia, Tetraberlinia bifoliolata, Tithonia diversifolia, Vigna unguiculata	Ecology
+109248	Visits flowers of: Crotalaria sp.	Ecology
+109298	Visits flowers of: Cassia sp.	Ecology
+109329	Visits flowers of: Grewia occidentalis	Ecology
+109333	Visits flowers of: Cleome suffruticosa, Codon royenii, Codon schenckii, Fabaceae (Papilionaceae), Indigofera longispina, Monechma mollissimum, Petalidium variabile	Ecology
+109961	Visits flowers of: Antigonon leptopus, Crotalaria pallida, Crotalaria sp., Lantana camara, Zingiberaceae	Ecology
+110011	Visits flowers of: Cassia sp., Mentha sp.	Ecology
+109356	Visits flowers of: Lamiaceae (Labiatae)	Ecology
+109386	Visits flowers of: Aizoaceae, Asclepias buchenaviana, Compositae (daisy), Geigeria pectidea, Hermannia modesta, Indigofera auricoma, Indigofera filipes, Indigofera longispina, Indigofera sp., Limeum sp., Medicago sativa (lucerne), Osteospermum microcarpum, Sesuvium sesuvioides, Vahlia capensis, Zygophyllum cylindrifolium, Zygophyllum simplex, Zygophyllum sp.	Ecology
+109418	Visits flowers of: Anchusa capensis, Ballota africana, Lamiaceae (Labiatae), Pteronia incana	Ecology
+109470	Visits flowers of: Ballota africana, Berkheya fruticosa, Berkheya onobromoides, Lamiaceae (Labiatae), Monechma mollissimum	Ecology
+109488	Visits flowers of: Asclepias buchenaviana, Aspalathus linearis, Aspalathus pulicifolia, Crotalaria damarensis, Crotalaria sp., Hermannia engleri, Hermannia gariepina, Hermannia marginata, Hermannia trifurca, Indigofera filipes, Indigofera sp., Jamesbrittenia canescens, Lebeckia multiflora, Lebeckia sericea, Pteronia incana, Zygophyllum meyeri	Ecology
+109527	Visits flowers of: Anchusa capensis, Asclepias buchenaviana, Aspalathus chortophila, Aspalathus spinescens, Lebeckia sericea, Polycarena sp.	Ecology
+109531	Visits flowers of: Dacryodes edulis, Milletia sp., Stachytarpheta angustifolia	Ecology
+109568	Visits flowers of: Boerhavia deserticola, Petalidium variabile	Ecology
+109590	Visits flowers of: Psoralea pinnata	Ecology
+109614	Visits flowers of: Albuca cooperi, Ballota africana, Blepharis extenuata, Hermannia disermifolia, Herrea sp., Lebeckia sericea, Nemesia ligulata, Stachys aurea, Wahlenbergia annularis, Zygophyllum sp.	Ecology
+109620	Visits flowers of: Hermbstaedtia glauca, Indigofera longispina, Kissenia capensis, Trichodesma africanum, Zygophyllum simplex, Zygophyllum sp.	Ecology
+109624	Visits flowers of: Aspalathus spinescens, Senecio sp.	Ecology
+109634	Visits flowers of: Arctotheca calendula, Ballota africana, Berkheya fruticosa, Hermannia cuneifolia, Hermannia disermifolia, Hermannia disermifolia, Hermannia scordifolia, Hermannia sp., Hermannia trifurca, Lebeckia sericea, Lebeckia sp., Pteronia divaricata, Pteronia incana, Wahlenbergia prostrata	Ecology
+109637	Visits flowers of: Phaseolus lunatus, Stachytarpheta angustifolia, Stylosanthes erecta	Ecology
+109672	Visits flowers of: Geigeria sp.	Ecology
+109675	Visits flowers of: Acalypha sp., Aspilia africana, Borreria verticillata, Cissus producta (Cissus cfr. producta), Compositae (Asteraceae), Emilia coccinea, Stachytarpheta angustifolia, Triumfetta eriophlebia, Vernonia conferta	Ecology
+109680	Visits flowers of: Anchusa capensis, Aspalathus spinescens, Aspalathus uniflora, Fabaceae (Papilionaceae), Hermannia marginata, Homeria miniata, Lebeckia sericea, Melolobium candicans, Prenia pallens	Ecology
+109696	Visits flowers of: Aspalathus divaricata, Aspalathus linearis, Aspalathus sp., Aspalathus spinescens, Berkheya fruticosa, Gladiolus orchidiflorus, Hermannia sp., Herrea sp., Indigofera sp., Lebeckia sericea, Lebeckia sp., Lebeckia spinescens, Lessertia spinescens, Melolobium candicans, Moraea gawleri, Pisum sativum (pea), Podalyria microphylla, Polygala virgata, Pteronia incana, Stachys rugosa, Wiborgia monoptera, Wiborgia sp., Zygophyllum meyeri, Zygophyllum morgsana, Zygophyllum sp.	Ecology
+109702	Visits flowers of: Anchusa capensis, Aspalathus linearis, Aspalathus spinescens, Ballota africana, Berkheya fruticosa, Fabaceae, Heliophila sp., Hermannia disermifolia, Hermannia sp., Hermannia trifurca, Herrea sp., Hirpicium alienatum, Indigofera spinescens, Lebeckia sericea, Lebeckia sp., Melolobium candicans, Pteronia incana, Wiborgia monoptera, Zygophyllum meyeri	Ecology
+109739	Visits flowers of: Acacia karroo, Aspalathus spinescens, Borreria verticillata, Cleome sp., Cotyledon campanulata, Crotalaria damarensis, Crotalaria micans, Crotalaria sp., Duranta repens, Fabaceae (broom), Indigofera filipes, Ipomoea arborescens, Lamiaceae (Labiatae), Lantana camara, Phaseolus vulgaris, Pisum sativum, Stachytarpheta angustifolia, Stachytarpheta jamaicensis	Ecology
+109769	Visits flowers of: Alchornea sp., Compositae, Crotalaria sp., Indigofera sp., Justicia sp., Lamiaceae (Labiatae), Passifloraceae	Ecology
+109815	Visits flowers of: Aeschynomene brevifolia, Asystasia gangetica, Emilia citrina, Emilia humifusa, Euphorbia pulcherrima, Ipomoea pes-caprae, Lobelia agrestis, Lobelia fervens, Portulaca sp., Pyrostria major	Ecology
+109838	Visits flowers of: Crotalaria podocarpa, Crotalaria sp.	Ecology
+110051	Visits flowers of: Aeschynomene nodulosa, Calpurnia subdecandra, Canavalia virosa, Cassia abbreviata, Cassia sp., Eulophia angolensis, Eulophia speciose, Foeniculum vulgare, Lathyrus sp., Markhamia sp., Mentha sp., Sesbania bispinosa, Sesbania sesban, Sophora inhambanensis, Sophora tomentosa, Tecoma stans	Ecology
+110100	Visits flowers of: Acacia caffra, Acacia karroo, Adenolobus pechuelii, Agave sp., Allium sp., Aloe sp., Amaranthaceae (Chenopodiaceae), Asclepias buchenaviana, Aspalathus cordata, Aspalathus linearis, Aspalathus sp., Aspalathus spinescens, Aspalathus vulnerans, Bauhinia purpurea, Berkheya sp., Blepharis capensis, Bougainvillea sp., Calpurnia sp., Cassia didymobotrya, Cassia spectabilis, Cleome angustifolia, Codon schenckii, Compositae, Eucalyptus sp., Eulophia speciose, Fabaceae (Papilionaceae), Grewia occidentalis, Grewia sp., Herschelia graminifolia, Iridaceae, Lebeckia sericea, Liliaceae, Lobostemon sp., Lobostemon trichotomus, Loganiaceae, Lycium sp., Lycopersicon esculentum, Maerua schinzii, Medicago sativa, Mesembryanthemaceae, Monechma sp., Myrtaceae, Nicotiana glauca, Otoptera burchellii, Podalyria microphylla, Polygala pinifolia, Rafnia amplexicaulus, Rhus sp., Rubus sp., Ruschia sp., Salvia dentata, Satyrium hallackii, Scaevola sp., Solanaceae, Solanum sp., Tipuana tipu, Tribulus sp., Trifolium sp., Vicia flava, Zea mays	Ecology
+110109	Visits flowers of: Asystasia sp., Aucoumea klaineana, Bixa orellana, Cajanus cajan, Centrosema pubescens, Clerodendron sp., Dissotis brazzae, Duranta repens, Ipomoea involucrata, Lantana camara, Leucaena leucocephala, Macadamia sp., Mimosa pudica, Passiflora edulis, Stachytarpheta angustifolia, Tetraberlinia bifoliolata, Vigna unguiculata	Ecology
+110140	Visits flowers of: Aspalathus sp., Aspalathus spinescens, Aspalathus vulnerans, Lebeckia sericea, Lobostemon trichotomus, Pisum sativum (pea), Rafnia amplexicaulus, Satyrium hallackii, Spartina sp., Tipuana tipu, Virgilia divaricata, Virgilia oroboides	Ecology
+110237	Visits flowers of: Asclepias buchenaviana, Aspalathus chortophila, Aspalathus linearis, Aspalathus pulicifolia, Aspalathus spinescens, Ballota africana, Hermbstaedtia glauca, Indigofera spicata, Lamiaceae (labiate), Lebeckia sericea, Polygala leptophylla, Polygala virgata, Ruschia sp., Wiborgia monoptera	Ecology
+110276	Visits flowers of: Acacia mellifera, Aspalathus spicata, Capparaceae, Centaurea sp., Compositae (Asteraceae), Crotalaria sp., Cyperaceae, Delonix regia, Fagonia sp. (cf. Fagonia), Heliantheae (Helianthae), Helianthus, Justicia sp., Leucaena sp., Mimosa pigra, Ocimum sp., Psophocarpus sp., Psoralea pinnata, Tephrosia sp., Vicia sp., Vigna sp.	Ecology
+107444	Visits flowers of: Eulophia cucullata	Ecology
+110455	Visits flowers of: Albuca sp., Anchusa capensis, Aridaria brevicarpa, Aspalathus chortophila, Aspalathus linearis, Aspalathus pulicifolia, Aspalathus spinescens, Ballota africana, Fabaceae (Papilionaceae), Hermannia disermifolia, Herrea sp., Hirpicium alienatum, Lebeckia pungens, Lebeckia sericea, Lebeckia simsiana, Lotononis bainesii, Polygala virgata, Polymita albiflora, Prenia pallens, Sarcocaulon crassicaule, Stachys aurea, Wiborgia monoptera, Wiborgia sp., Zygophyllum divaricatum, Zygophyllum meyeri	Ecology
+110649	Visits flowers of: Acacia horrida, Acacia karroo, Acacia senegal, Adenolobus pechuelii, Asclepias buchenaviana, Blepharis capensis, Cleome elegantissima, Cleome sp., Cleome suffruticosa, Crotalaria argyraea, Crotalaria dinteri, Crotalaria podocarpa, Crotalaria sp., Crotalaria virgultalis, Geigeria pectidea, Indigofera filipes, Indigofera sp., Lessertia macrostachya, Monechma genistifolium, Monechma sp., Monechma spartioides, Polygala leptophylla, Sesamum sp., Sesamum tryphyllum, Tephrosia oxygona	Ecology
+110694	Visits flowers of: Trachyandra sp.	Ecology
+110695	Visits flowers of: Leipoldtia schultzei, Mesembryanthemum sp., Ruschia cymosa	Ecology
+110696	Visits flowers of: Wahlenbergia sp.	Ecology
+110697	Visits flowers of: Othonna sp., Ruschia cymosa, Ruschia sp.	Ecology
+110698	Visits flowers of: Arctotheca calendula, Othonna sp.	Ecology
+110699	Visits flowers of: Asclepias buchenaviana, Athanasia sp., Bergia glomerata, Drosanthemum sp., Euclea crispa, Hermbstaedtia glauca (Heimbstaedti glauca), Herrea sp., Homeria sp., Polymita albiflora (Polymixta albiflora), Psilocaulon sp., Ruschia cymosa, Ruschia robusta, Senecio rosmarinifolius, Wiborgia sp., Zygophyllum clavatum, Zygophyllum prismatocarpum, Zygophyllum retrofractum	Ecology
+110702	Visits flowers of: Eulophia alta	Ecology
+110703	Visits flowers of: Carpobrotus edulis, Carpobrotus saueri (Carpobrotus sauerae)	Ecology
+110704	Visits flowers of: Leipoldtia schultzei, Othonna sp., Ruschia cymosa	Ecology
+110706	Visits flowers of: Ruschia sp.	Ecology
+110707	Visits flowers of: Cheiridopsis denticulata, Conicosia elongata, Leipoldtia schultzei, Pelargonium myrrhifolium, Ruschia cymosa, Ruschia elineata, Ruschia robusta	Ecology
+110708	Visits flowers of: Lasiospermum bipinnatum, Selago corymbosa, Wahlenbergia sp.	Ecology
+110711	Visits flowers of: Conicosia elongata, Conicosia sp., Leipoldtia schultzei, Mesembryanthemaceae (vygie), Othonna arbuscula, Polymita albiflora, Ruschia cymosa, Ruschia elineata, Ruschia robusta, Senecio sp., Zygophyllum retrofractum	Ecology
+110712	Visits flowers of: Chrysanthemum sp., Diascia sp., Othonna sp., Oxalis sp.	Ecology
+110714	Visits flowers of: Senecio rosmarinifolius	Ecology
+110715	Visits flowers of: Augea capensis, Dorotheanthus sp., Homeria miniata, Trachyandra muricata	Ecology
+110719	Visits flowers of: Homeria miniata, Homeria sp.	Ecology
+110721	Visits flowers of: Grielum sp., Ixia scillaris, Ruschia sp.	Ecology
+110722	Visits flowers of: Conicosia elongata, Ruschia cymosa, Ruschia elineata, Ruschia sp.	Ecology
+110723	Visits flowers of: Ruschia sp.	Ecology
+110726	Visits flowers of: Lasiospermum bipinnatum	Ecology
+110727	Visits flowers of: Foeniculum vulgare, Lasiospermum bipinnatum, Selago sp., Wahlenbergia nodosa	Ecology
+110730	Visits flowers of: Hermbstaedtia odorata	Ecology
+110733	Visits flowers of: Arctotheca calendula, Chrysanthemum sp., Othonna sp., Senecio sp.	Ecology
+110737	Visits flowers of: Reseda sp.	Ecology
+110744	Visits flowers of: Indigofera tinctoria, Solanum panduriforme	Ecology
+110745	Visits flowers of: Lebeckia parvifolia, Zygophyllum stapffii	Ecology
+110746	Visits flowers of: Salsola sp.	Ecology
+110747	Visits flowers of: Drosanthemum hispidum	Ecology
+110752	Visits flowers of: Apatesia sp., Conicosia elongata, Fabaceae (Papilionaceae), Homeria sp., Ruschia elineata, Ruschia sp.	Ecology
+110758	Visits flowers of: Zygophyllum sp.	Ecology
+110761	Visits flowers of: Zygophyllum meyeri, Zygophyllum prismatocarpum	Ecology
+110762	Visits flowers of: Galenia sp.	Ecology
+110763	Visits flowers of: Gymnodiscus linearifolia, Herrea sp.	Ecology
+110764	Visits flowers of: Polycarena aurea, Polycarena sp.	Ecology
+110766	Visits flowers of: Heliophila sp.	Ecology
+110767	Visits flowers of: Osteospermum sp., Pentzia sp.	Ecology
+110771	Visits flowers of: Herrea sp.	Ecology
+110772	Visits flowers of: Othonna arbuscula	Ecology
+110774	Visits flowers of: Cheiridopsis denticulata, Diascia macrophylla, Euphorbia mauritanica, Herrea sp., Pentzia incana, Ruschia cymosa, Ruschia elineata	Ecology
+110775	Visits flowers of: Elytropappus rhinocerotis, Oxalis sp.	Ecology
+110776	Visits flowers of: Cotula barbata	Ecology
+110777	Visits flowers of: Grielum grandiflorum, Grielum humifusum, Grielum sinuatum, Grielum sp., Hemimeris sp., Ruschia sp.	Ecology
+110778	Visits flowers of: Zygophyllum meyeri	Ecology
+110779	Visits flowers of: Oxalis sp.	Ecology
+110780	Visits flowers of: Leucadendron sp., Paranomus bracteolaris (Paranomous bracteolarus)	Ecology
+110782	Visits flowers of: Pentzia suffruticosa	Ecology
+110783	Visits flowers of: Leucadendron sp.	Ecology
+110785	Visits flowers of: Brassica sp., Senecio sp.	Ecology
+110786	Visits flowers of: Grielum sinuatum, Grielum sp.	Ecology
+110787	Visits flowers of: Arctotheca calendula, Gymnodiscus linearifolia, Helichrysum hebelepis, Senecio sp.	Ecology
+110788	Visits flowers of: Chrysocoma cotula, Chrysocoma sp., Chrysocoma strigosa, Dimorphotheca sinuta, Euryops thunbergii, Helichrysum rugulosum, Senecio cardaminifolius, Senecio sp., Zygophyllum sp.	Ecology
+110789	Visits flowers of: Cotula sp.	Ecology
+110790	Visits flowers of: Oxalis sp.	Ecology
+110793	Visits flowers of: Tetraena simplex (Tetraema simplex)	Ecology
+110795	Visits flowers of: Athanasia sp., Athanasia trifurcata, Helichrysum sp., Lasiospermum bipinnatum, Othonna cylindrica, Pentzia spinescens, Senecio rosmarinifolius, Senecio sp.	Ecology
+110796	Visits flowers of: Zygophyllum prismatocarpum	Ecology
+110799	Visits flowers of: Zygophyllum prismatocarpum, Zygophyllum sp.	Ecology
+110800	Visits flowers of: Eriocephalus ericoides, Oxalis sp.	Ecology
+110801	Visits flowers of: Grielum sinuatum (Grielum sinuatam), Grielum sp.	Ecology
+110892	Visits flowers of: Merremia sp.	Ecology
+110905	Visits flowers of: Clidemia hirta	Ecology
+110906	Visits flowers of: Hieracium capense	Ecology
+110908	Visits flowers of: Ranunculus pinnatus	Ecology
+110909	Visits flowers of: Poaceae	Ecology
+110941	Visits flowers of: Aspilia helianthoides, Boerhavia erecta, Borreria verticillata, Cassia siamea, Cissus sp., Cleome viscosa, Euphorbia heterophylla, Landolphia sp. (Landolfia sp.), Mikania cordata	Ecology
+110951	Visits flowers of: Acacia sp., Acanthospermum hispidum, Ageratum sp., Ammannia sp., Aspilia africana, Aspilia helianthoides, Asystasia gangetica, Boerhavia erecta, Borreria verticillata, Cassia sp., Cissus sp., Cleome viscosa, Croton hirtus, Elaeis guineensis, Elephantopus mollis, Emilia coccinea, Floscopa africana, Floscopa sp., Grewia flavescens, Haronga madagascariensis, Heterotis decumbens, Indigofera paniculata, Indigofera sp., Ipomoea sp., Jussiaea stenorraphe, Landolphia sp. (Landolfia sp.), Leea guineensis, Mangifera indica, Melochia corchorifolia, Mitracarpus scaber, Momordica sp., Ocimum sp., Psychotria sp., Sesamum indicum, Sesamum radiatum, Solanum panduriforme, Stachytarpheta angustifolia, Triumfetta eriophlebia, Triumfetta sp., Urena lobata, Vernonia conferta, Virectaria multiflora, Waltheria indica	Ecology
+110958	Visits flowers of: Sorghum arundinaceum	Ecology
+110988	Visits flowers of: Phellolophium madagascariense	Ecology
+111005	Visits flowers of: Erythroxylum platyclados	Ecology
+111039	Visits flowers of: Erythroxylum sp., Gaertnera guillotii	Ecology
+111042	Visits flowers of: Acacia sp., Borreria verticillata, Indigofera sp., Mitracarpus scaber	Ecology
+111043	Visits flowers of: Medinilla chermezonii, Pandanus sp., Tristemma virusanum	Ecology
+111068	Visits flowers of: Grewia sp.	Ecology
+111072	Visits flowers of: Cheiridopsis denticulata, Conicosia elongata, Euphorbia mauritanica, Montinia caryophyllacea, Othonna arbuscula, Ruschia cymosa, Ruschia elineata, Senecio sp., Tetragonia fruticosa, Zygophyllum meyeri	Ecology
+111085	Visits flowers of: Combretum sp., Crossopteryx febrifuga, Oenothera villosa, Protea sp., Terminalia sp., Vitex doniana	Ecology
+111096	Visits flowers of: Crotalaria podocarpa, Fabaceae (broom), Indigofera sp.	Ecology
+111098	Visits flowers of: Mitracarpus scaber	Ecology
+111103	Visits flowers of: Erythroxylum platyclados, Grewia sp.	Ecology
+111111	Visits flowers of: Tetracera rutenbergi	Ecology
+111133	Visits flowers of: Corchorus asplenifolius	Ecology
+111140	Visits flowers of: Borreria verticillata, Dacryodes edulis, Haronga madagascariensis, Ludwigia octovalvis, Otomeria guineensis, Solenostemon sp., Stachytarpheta angustifolia	Ecology
+111141	Visits flowers of: Cissus sp.	Ecology
+111142	Visits flowers of: Acacia karroo, Aptosimum procumbens, Melolobium candicans, Sarcostemma viminale, Senecio sp.	Ecology
+111165	Visits flowers of: Apocynaceae, Cynanchum sp., Dionycha bojerii, Emilia citrina	Ecology
+111166	Visits flowers of: Alafia thouarsii, Tristemma virusanum, Urena lobata, Vaccinium sp.	Ecology
+111167	Visits flowers of: Hieracium madagascariense	Ecology
+111168	Visits flowers of: Dichaetanthera sp., Exacum divaricatum	Ecology
+111170	Visits flowers of: Erythroxylum platyclados, Pentopetia boinensis	Ecology
+111172	Visits flowers of: Aloe	Ecology
+111177	Visits flowers of: Acacia tortilis, Balanites aegyptiaca, Guiera senegalensis	Ecology
+111236	Visits flowers of: Geigeria sp.	Ecology
+111287	Visits flowers of: Borreria sp., Borreria verticillata, Citrus aurantifolia, Dacryodes edulis, Dichostemma glaucescens, Elaeis guineensis, Ipomoea involucrata, Mangifera indica, Polygonum salicifolium, Psychotria sp., Sesamum sp., Stachytarpheta angustifolia, Urena lobata, Vernonia conferta, Vismia rubescens	Ecology
+111292	Visits flowers of: Gossypium sp. (cotton)	Ecology
+111299	Visits flowers of: Impatiens sp.	Ecology
+111315	Visits flowers of: Rubus sp.	Ecology
+111316	Visits flowers of: Litchi chinensis	Ecology
+111317	Visits flowers of: Cissus producta, Harungana madagascariensis, Ipomoea sp.	Ecology
+111320	Visits flowers of: Harungana madagascariensis	Ecology
+111338	Visits flowers of: Geraniaceae	Ecology
+111349	Visits flowers of: Cissus producta, Harungana madagascariensis	Ecology
+111358	Visits flowers of: Acacia farnesiana	Ecology
+111370	Visits flowers of: Cissus producta, Harungana madagascariensis	Ecology
+111384	Visits flowers of: Compositae	Ecology
+111395	Visits flowers of: Ageratum sp., Emilia coccinea, Ipomoea involucrata, Vernonia conferta	Ecology
+111464	Visits flowers of: Acacia senegal, Acacia sp., Acacia tortilis, Ageratum conyzoides, Albizia sp., Antigonon leptopus, Aspilia africana, Averrhoa carambola, Bidens sp., Borreria sp., Borreria verticillata, Calliandra calothyrsus, Cissus oreophila, Cissus producta, Cissus sp., Combretum apiculatum, Combretum sp., Crudia klainei, Dacryodes edulis, Dialium soyauxii, Dichostemma glaucescens, Elephantopus mollis, Eucalyptus robusta, Eucalyptus sp., Ficus umbellata, Gouania longipetala, Haronga madagascariensis, Indigofera sp., Mangifera indica, Mikania cordata, Musa sp., Psidium guajava, Psychotria sp., Solenostemon sp., Spirostachys africana, Stachytarpheta angustifolia, Syzygium sp., Tetraberlinia bifoliolata, Vernonia conferta, Vernonia sp., Zea mays	Ecology
+111476	Visits flowers of: Borreria verticillata, Erythroxylum platyclados, Euphorbia sp., Gouania sp., Oldenlandia herbacea, Ranunculus sp., Terminalia pumila, Waltheria madagascariensis	Ecology
+111477	Visits flowers of: Borreria verticillata, Haronga madagascariensis, Mangifera indica, Stachytarpheta angustifolia, Vismia rubescens	Ecology
+111494	Visits flowers of: Borreria verticillata, Euphorbia hirta, Phyllanthus niruroides	Ecology
+111536	Visits flowers of: Wahlenbergia annularis, Wahlenbergia annularis	Ecology
+111537	Visits flowers of: Drosanthemum sp.	Ecology
+111539	Visits flowers of: Lightfootia namaquana, Wahlenbergia sp.	Ecology
+111540	Visits flowers of: Wahlenbergia sp.	Ecology
+111541	Visits flowers of: Indigofera sp., Limeum sulcatum, Molluginaceae	Ecology
+111543	Visits flowers of: Campanulaceae, Wahlenbergia sp.	Ecology
+111544	Visits flowers of: Hydroidea sp., Mesembryanthemum sp., Prenia pallens, Prenia sladeniana, Tribulus zeyheri, Wahlenbergia annularis, Zygophyllum sp.	Ecology
+111545	Visits flowers of: Campanulaceae, Compositae, Gorteria sp., Osteospermum sp., Wahlenbergia annularis	Ecology
+111552	Visits flowers of: Crotalaria podocarpa, Cucurbitaceae (cucurbit), Gisekia africana, Heliotropium ciliatum, Indigofera alternans, Indigofera charlieriana, Indigofera filipes, Indigofera sp., Lessertia macrostachya, Limeum arqute-carinatum, Limeum fenestratum, Limeum myosotis, Neuradopsis austro-africana, Tribulus sp.	Ecology
+111553	Visits flowers of: Crotalaria podocarpa	Ecology
+111561	Visits flowers of: Colpias mollis, Cysticapnos vesicaria (Crysticapnos vesicularis), Hemimeris racemosa, Othonna arbuscula, Oxalis comosa, Oxalis pes-caprae, Oxalis sp.	Ecology
+111562	Visits flowers of: Alonsoa unilabiata, Lotononis hirsuta, Moraea miniata, Oxalis obtusa, Oxalis pes-caprae, Oxalis sp.	Ecology
+111563	Visits flowers of: Cyphia sp., Diascia capsularis	Ecology
+111564	Visits flowers of: Diascia capensis, Diascia diffusa, Diascia elongata, Diascia grantiana, Diascia sp., Diascia speciosa, Moraea miniata, Oxalis pes-caprae, Romulea cruciata, Romulea eximia	Ecology
+111565	Visits flowers of: Diascia cordata, Diascia purpurea, Diascia vigilis, Lotononis lotononoides, Lotononis sp., Moraea inclinata, Moraea sp., Wahlenbergia cuspidata	Ecology
+111566	Visits flowers of: Diascia cordata	Ecology
+111567	Visits flowers of: Arctotheca calendula, Diascia floribunda, Diascia insignis, Diascia macrophylla, Diascia namaquensis, Diascia tanyceras, Diascia tenuis, Diascia whiteheadii, Lachenalia sp., Moraea sp., Oxalis sp., Trachyandra sp.	Ecology
+111568	Visits flowers of: Ceratandra atrata, Ceratandra bicolor, Ixianthes retzioides, Moraea ramosissima, Pterygodium acutifolium, Satyrium rhynchanthum, Tritoniopsis parviflora, Wachendorfia paniculata, Watsonia borbonica, Watsonia marginata	Ecology
+111569	Visits flowers of: Alonsoa unilabiata, Arctotheca calendula, Diascia cardiosepala, Diascia floribunda, Diascia macrophylla, Diascia nana, Hemimeris centrodes, Hemimeris racemosa, Othonna sp.	Ecology
+111570	Visits flowers of: Alonsoa unilabiata, Arctotheca calendula, Bulbinella floribunda, Cysticapnos vesicaria, Diascia bicornuta, Diascia cardiosepala, Diascia floribunda, Diascia lewisiae, Diascia longicornis, Diascia macrophylla, Diascia parviflora, Diascia sp., Diascia tanyceras, Diascia veronicoides, Diascia whiteheadii, Erodium cicutarium, Geissorhiza aspera, Grielum humifusum, Hemimeris centrodes, Hemimeris racemosa, Lotononis hirsuta, Moraea bifida, Moraea miniata, Nemesia cheiranthus, Nemesia leipoldtii, Othonna sp., Oxalis obtusa, Oxalis pes-caprae, Polycarena sp., Polygala sp., Raphanus raphanistrum, Romulea sp., Senecio arenarius, Senecio littoreus, Wachendorfia sp., Zygophyllum sp.	Ecology
+111571	Visits flowers of: Cysticapnos vesicaria, Diascia barberae, Diascia bicornuta, Diascia floribunda, Diascia longicornis, Diascia parviflora, Diascia whiteheadii, Disperis bolusiana, Disperis circumflexa, Disperis macrocorys, Heliophila sp., Holothrix aspera, Homeria miniata, Moraea bifida, Moraea demissa, Moraea fragrans, Moraea miniata, Moraea tripetala, Pterygodium pentherianum, Pterygodium schelpei	Ecology
+111572	Visits flowers of: Alonsoa unilabiata, Arctotheca calendula, Bulbinella nutans, Corycium deflexum, Diascia cardiosepala, Diascia dissimulans, Diascia floribunda, Diascia insignis, Diascia lewisiae, Diascia macrophylla, Diascia parviflora, Diascia tanyceras, Diascia veronicoides, Diascia whiteheadii, Dimorphotheca pluvialis, Disperis purpurata, Felicia sp., Hemimeris centrodes, Hemimeris racemosa, Hemimeris sabulosa, Hesperantha cucullata, Lotononis hirsuta, Moraea bifida, Moraea pritzeliana, Moraea tripetala, Nemesia leipoldtii, Othonna sp., Pterygodium hallii, Senecio littoreus, Sparaxis elegans	Ecology
+111573	Visits flowers of: Diascia capensis, Diascia elongata, Diascia grantiana, Diascia longicornis, Diascia sp., Diascia speciosa, Diascia whiteheadii, Dimorphotheca sp., Moraea fugax, Oxalis pes-caprae	Ecology
+111574	Visits flowers of: Bowkeria verticillata, Corycium dracomontanum, Corycium sp., Cyphia sp., Cyphia triphylla, Diascia anastrepta, Diascia barberae, Diascia capsularis, Diascia cardiosepala, Diascia cordata, Diascia fetcaniensis, Diascia integerrima, Diascia megathura, Diascia purpurea, Diascia rigescens, Diascia stachyoides, Diascia stricta, Diascia tugelensis, Diascia vigilis, Dierama tysonii, Disperis renibractea, Disperis stenoplectron, Disperis wealei, Geranium amatolicum, Geranium drakensbergensis, Heliophila rigidiuscula, Hesperantha sp., Lotononis lotononoides, Lotononis sp., Moraea inclinata, Oxalis semiloba, Selago tephrodes, Tritonia rubro-lucens, Wahlenbergia cuspidata, Wahlenbergia krebsii, Wahlenbergia sp., Wahlenbergia zeyheri	Ecology
+111575	Visits flowers of: Alonsoa unilabiata, Arctotheca calendula, Bulbinella nutans, Diascia bicolor, Diascia cardiosepala, Diascia decipiens, Diascia ellaphieae, Diascia floribunda, Diascia fragrans, Diascia lewisiae, Diascia sacculata, Hemimeris gracilis, Hemimeris racemosa, Moraea bifida, Moraea miniata, Oxalis obtusa, Selago fourcadei, Sisymbrium orientale	Ecology
+111576	Visits flowers of: Cysticapnos pruinosa, Diascia anastrepta, Diascia barberae, Diascia fetcaniensis, Diascia integerrima, Diascia stricta, Geranium sp., Stachys sp., Sutera sp.	Ecology
+111577	Visits flowers of: Alonsoa unilabiata, Corycium crispum, Cysticapnos vesicaria, Diascia capensis, Diascia ellaphieae, Diascia elongata, Diascia grantiana, Diascia lewisiae, Diascia pachyceras, Diascia sp., Diascia speciosa, Geissorhiza aspera, Heliophila sp., Hemimeris racemosa, Hemimeris sabulosa, Moraea miniata, Moraea papilionacea, Moraea sp., Nylandtia spinosa, Oxalis obtusa, Oxalis pes-caprae, Oxalis sp., Trachyandra sp., Wachendorfia paniculata	Ecology
+111578	Visits flowers of: Alonsoa unilabiata, Corycium crispum, Cysticapnos vesicaria, Diascia batteniana, Diascia capensis, Diascia ellaphieae, Diascia elongata, Diascia grantiana, Diascia lewisiae, Diascia pachyceras, Diascia sp., Diascia speciosa, Geissorhiza aspera, Heliophila sp., Hemimeris racemosa, Hemimeris sabulosa, Moraea gawleri, Moraea miniata, Moraea sp., Nylandtia spinosa, Oxalis obtusa, Oxalis pes-caprae, Oxalis sp., Pterygodium catholicum, Trachyandra sp., Wachendorfia paniculata	Ecology
+111579	Visits flowers of: Diascia capsularis, Scabiosa sp., Wahlenbergia sp.	Ecology
+111580	Visits flowers of: Alonsoa unilabiata, Diascia capensis, Diascia diffusa, Diascia sp., Moraea miniata	Ecology
+111581	Visits flowers of: Bulbine sp., Cysticapnos vesicaria, Diascia parviflora, Diascia patens, Diascia veronicoides, Hemimeris gracilis, Hemimeris racemosa, Lachenalia sp., Lotononis hirsuta, Nemesia sp., Oxalis pes-caprae, Polygala sp., Senecio sp.	Ecology
+111582	Visits flowers of: Alonsoa unilabiata, Bowkeria citrina, Bowkeria verticillata, Diascia capensis, Diascia diffusa, Diascia integerrima, Diascia mollis, Diascia sp., Fabaceae, Lotononis sp., Moraea miniata, Moraea sp., Otholobium polystictum, Rubus sp. (Rubis sp.)	Ecology
+111583	Visits flowers of: Anastrabe integerrima, Bowkeria cymosa	Ecology
+111584	Visits flowers of: Diascia racemulosa	Ecology
+111586	Visits flowers of: Cysticapnos vesicaria, Heliophila sp., Hermannia scordifolia, Hermannia sp., Indigofera sp., Lachenalia mutabilis, Lebeckia sp., Lessertia rigida, Moraea miniata, Moraea ramosissima, Moraea sp., Nemesia affinis, Nemesia sp., Nemesia versicolor, Polycarena phyllopodioides, Trachyandra muricata, Zygophyllum sp.	Ecology
+111594	Visits flowers of: Ipomoea arborescens, Ipomoea involucrata, Ipomoea sp.	Ecology
+111595	Visits flowers of: Athanasia filiformis, Athanasia trifurcata, Lamiaceae (Labiatae), Lasiospermum bipinnatum, Senecio linifolius, Senecio pterophorus, Senecio rosmarinifolius, Senecio sp.	Ecology
+111627	Visits flowers of: Acacia farnesiana, Bidens pilosa, Coleus blumei, Dialypetalum floribundum, Emilia citrina, Erythroxylum platyclados, Hieracium capense, Kaliphora madagascariensis, Psiadia altissima, Verbena brasiliensis, Vernonia garnieriana, Viscum sp.	Ecology
+111633	Visits flowers of: Borreria verticillata, Stachytarpheta angustifolia	Ecology
+111670	Visits flowers of: Zygophyllum depauperatum	Ecology
+111694	Visits flowers of: Clerodendron sp.	Ecology
+111723	Visits flowers of: Hirpicium alienatum, Pteronia incana, Ruschia cymosa	Ecology
+111727	Visits flowers of: Acacia caffra, Acacia karroo, Geigeria pectidea, Hermannia modesta, Hermbstaedtia odorata, Indigofera rautanenii, Tribulus cristatus, Vahlia capensis	Ecology
+111747	Visits flowers of: Wahlenbergia sp.	Ecology
+111797	Visits flowers of: Hermannia trifurca, Lebeckia sericea, Lycium sp., Stachys aurea, Wiborgia monoptera	Ecology
+111798	Visits flowers of: Berkheya sp., Gorteria sp., Hermbstaedtia glauca, Osteospermum sp.	Ecology
+111800	Visits flowers of: Crotalaria sp., Indigofera longispina	Ecology
+111823	Visits flowers of: Berkheya heterophylla	Ecology
+111826	Visits flowers of: Asclepias buchenaviana, Aspalathus linearis, Aspalathus pulicifolia, Compositae (daisy), Crotalaria damarensis, Crotalaria sp., Fabaceae (broom), Hermannia engleri, Hermannia gariepina, Hermannia marginata, Hermannia trifurca, Indigofera filipes, Indigofera sp., Jamesbrittenia canescens, Lebeckia multiflora, Lebeckia sericea, Pteronia incana, Zygophyllum meyeri	Ecology
+111839	Visits flowers of: Asclepias buchenaviana	Ecology
+111999	Visits flowers of: Helianthus annuus	Ecology
+112136	Visits flowers of: Rosa sp. (rose)	Ecology
+112299	Visits flowers of: Anchusa capensis, Ballota africana, Berkheya fruticosa, Cotyledon orbiculata, Cotyledon paniculata, Galenia sarcophylla, Lamiaceae, Mesembryanthemaceae, Mesembryanthemum sp., Pentzia incana, Psilocaulon sp., Pteronia divaricata, Pteronia sp., Ruschia cymosa, Senecio cinerascens, Stachys aurea	Ecology
+112307	Visits flowers of: Aizoaceae, Aptosimum sp., Hermannia sp., Monechma sp., Psilocaulon salicornioides, Sisyndite spartea, Wahlenbergia sp.	Ecology
+112312	Visits flowers of: Psilocaulon salicornioides, Zygophyllum simplex	Ecology
+112314	Visits flowers of: Acalypha sp., Ageratum sp., Ammannia sp., Aspilia africana, Aspilia helianthoides, Borreria verticillata, Bougainvillea sp., Celosia trigyna, Conyza bonariensis, Elephantopus mollis, Emilia coccinea, Emilia sp., Indigofera sp., Mimosa pudica, Ocimum sp., Platostoma africanum, Scoparia dulcis, Stachytarpheta angustifolia, Vernonia conferta, Vernonia sp., Waltheria indica	Ecology
+112324	Visits flowers of: Crotalaria doidgeae	Ecology
+112325	Visits flowers of: Stachys aurea	Ecology
+112331	Visits flowers of: Galenia papulosa, Wahlenbergia sp.	Ecology
+112354	Visits flowers of: Lasiospermum bipinnatum, Mesembryanthemaceae, Psilocaulon sp., Wahlenbergia constricta, Wahlenbergia sp.	Ecology
+112370	Visits flowers of: Berkheya heterophylla, Chrysocoma ciliata, Chrysocoma tenuifolia, Eucalyptus sp. (gum tree), Gazania rigens, Gazania uniflora, Lasiospermum bipinnatum, Mesembryanthemaceae, Senecio pterophorus, Senecio sp.	Ecology
+112377	Visits flowers of: Lasiospermum bipinnatum	Ecology
+112381	Visits flowers of: Bidens pilosa	Ecology
+112387	Visits flowers of: Antigonon leptopus, Asystasia sp., Borreria verticillata, Cissus producta, Clerodendron sp., Ipomoea batatas, Ipomoea sp., Sesamum sp., Stachytarpheta angustifolia, Tithonia diversifolia, Urena lobata, Vernonia conferta	Ecology
+112388	Visits flowers of: Acalypha sp., Antigonon leptopus, Asystasia sp., Averrhoa carambola, Borreria sp., Borreria verticillata, Citrus aurantifolia, Clerodendron sp., Dacryodes edulis, Dialium soyauxii, Emilia coccinea, Haronga madagascariensis, Heinsia crinita, Mikania cordata, Otomeria guineensis, Psychotria sp., Scoparia dulcis, Sesamum sp., Stachytarpheta angustifolia, Tithonia diversifolia, Urena lobata, Vernonia conferta	Ecology
+112390	Visits flowers of: Aspilia africana, Aspilia sp., Asystasia gangetica, Asystasia sp., Borreria verticillata, Dacryodes edulis, Dichaetanthera africana, Gouania longipetala, Haronga madagascariensis, Heterotis decumbens, Litchi chinensis, Macadamia sp., Mangifera indica, Mikania cordata, Otomeria guineensis, Persea americana, Psidium guajava, Sesamum sp., Stachytarpheta angustifolia, Tetraberlinia bifoliolata, Vernonia conferta	Ecology
+112393	Visits flowers of: Aspalathus subtingens, Berkheya heterophylla	Ecology
+112394	Visits flowers of: Asclepias sp., Aspalathus divaricata	Ecology
+112398	Visits flowers of: Acalypha sp., Allamanda cathartica, Aspilia africana, Borreria verticillata, Costus lucanusianus, Cucumis sativus, Dacryodes edulis, Emilia coccinea, Haronga madagascariensis, Ipomoea arborescens, Ipomoea batatas, Ipomoea involucrata, Ipomoea sp., Luffa cylindrica, Sesamum sp., Stachytarpheta angustifolia, Urena lobata	Ecology
+112400	Visits flowers of: Elaeis guineensis, Haronga madagascariensis, Vernonia conferta	Ecology
+112403	Visits flowers of: Loddigesia mirabilis	Ecology
+112408	Visits flowers of: Satyrium hallackii	Ecology
+112410	Visits flowers of: Plectranthus sp.	Ecology
+112412	Visits flowers of: Salvia dentata	Ecology
+112416	Visits flowers of: Anchusa capensis, Berkheya heterophylla	Ecology
+112417	Visits flowers of: Anchusa capensis, Aspalathus divaricata, Aspalathus subtingens, Berkheya heterophylla, Berkheya sp., Protea repens	Ecology
+112439	Visits flowers of: Arthraerua leubnitziae, Blepharis mitrata, Deverra denudata, Hermannia engleri, Hermbstaedtia glauca, Hermbstaedtia odorata (Herbstaedtia odorata), Lebeckia parvifolia, Lebeckia sericea, Limeum sulcatum, Pentzia incana, Ruschia robusta, Vahlia capensis, Zygophyllum simplex	Ecology
+112443	Visits flowers of: Borreria verticillata, Cissus producta, Dacryodes edulis, Haronga madagascariensis, Mangifera indica	Ecology
+112444	Visits flowers of: Acalypha sp., Asystasia gangetica, Borreria sp., Borreria verticillata, Dacryodes edulis, Elaeis guineensis, Haronga madagascariensis, Lantana camara, Lasianthera africana, Leptoderris sp., Litchi chinensis, Macadamia sp., Mangifera indica, Mikania cordata, Mostuea sp., Ocimum sp., Paspalum sp., Persea americana, Psidium guajava, Sida acuta, Sorghum arundinaceum, Spondias mombin, Tetraberlinia bifoliolata, Triumfetta sp.	Ecology
+112446	Visits flowers of: Cissus producta	Ecology
+112449	Visits flowers of: Acalypha sp., Ageratum sp., Borreria sp., Borreria verticillata, Cissus oreophila, Cissus sp., Compositae, Dacryodes edulis, Dialium soyauxii, Elephantopus mollis, Haronga madagascariensis, Ipomoea batatas, Ipomoea sp., Mikania cordata, Ocimum sp., Psychotria sp., Sesamum sp., Solenostemon sp., Stachytarpheta angustifolia, Stylosanthes sp., Triaspis sapinii, Tridax procumbens, Vernonia conferta, Vernonia sp., Vismia rubescens	Ecology
+112451	Visits flowers of: Acalypha sp., Ageratum sp., Aspilia africana, Bidens sp., Borreria verticillata, Brassica sp., Compositae, Elephantopus mollis, Emilia coccinea, Ipomoea batatas, Psychotria sp., Sesamum sp., Stachytarpheta angustifolia, Talinum portulacifolium, Tridax procumbens, Vernonia sp., Zornia durumuensis	Ecology
+112456	Visits flowers of: Bidens sp., Brassicaceae, Compositae	Ecology
+112460	Visits flowers of: Acalypha sp., Borreria verticillata, Stachytarpheta angustifolia	Ecology
+112462	Visits flowers of: Acacia farnesiana, Borreria verticillata, Compositae, Coreopsis sp., Launaea bellidifolia, Lobelia sp., Portulaca sp., Scaevola taccada	Ecology
+112463	Visits flowers of: Asystasia sp., Fabaceae (Papilionaceae), Gouania sp., Helinus integrifolius, Kochneria madagascariensis, Nervilia petraea, Phylohydrax madagascariensis, Portulaca sp., Scaevola taccada	Ecology
+112466	Visits flowers of: Cissus oreophila, Cissus producta, Dacryodes edulis, Dialium soyauxii, Haronga madagascariensis, Mangifera indica, Vernonia conferta	Ecology
+112468	Visits flowers of: Adenolobus pechuelii, Aizoaceae, Arthraerua leubnitziae, Asclepias buchenaviana, Compositae (button composite), Cucurbitaceae (curcubit), Deverra aphylla, Deverra denudata, Fabaceae (Papilionaceae), Galenia africana, Geigeria pectidea, Grielum sp., Hermannia modesta, Hermbstaedtia odorata, Lebeckia parvifolia, Limeum aethiopicum, Limeum fenestratum, Mesembryanthemaceae, Monechma divaricatum, Monechma spartioides, Ocimum americanum, Osteospermum microcarpum, Psilocaulon salicornioides, Psilocaulon sp., Selago dinteri, Sisyndite spartea, Tephrosia oxygona, Trichodesma africanum, Vahlia capensis, Zygophyllum cylindrifolium, Zygophyllum prismatocarpum, Zygophyllum simplex, Zygophyllum stapffii	Ecology
+112472	Visits flowers of: Asystasia sp., Cissus oreophila, Cissus producta, Dacryodes edulis, Haronga madagascariensis, Ipomoea sp., Mangifera indica, Mikania cordata, Psidium guajava, Psychotria sp., Vernonia conferta	Ecology
+112492	Visits flowers of: Acacia farnesiana, Eugenia emirnensis, Mapouria aegialodes, Phellolophium madagascariense	Ecology
+112494	Visits flowers of: Acacia farnesiana, Croton sp.	Ecology
+112495	Visits flowers of: Psorospermum ferrugineum, Senecio myricaefolius	Ecology
+112496	Visits flowers of: Acacia farnesiana, Compositae, Croton sp., Emilia citrina, Mapouria aegialodes, Senecio faujasioides	Ecology
+112497	Visits flowers of: Acacia farnesiana, Croton sp., Mapouria aegialodes	Ecology
+112498	Visits flowers of: Helinus integrifolius, Scaevola sp., Zygophyllum depauperatum	Ecology
+112501	Visits flowers of: Zygophyllum depauperatum	Ecology
+112502	Visits flowers of: Acacia farnesiana	Ecology
+112503	Visits flowers of: Mapouria aegialodes, Vaccinium sp.	Ecology
+112505	Visits flowers of: Acacia farnesiana, Flacourtiaceae, Mapouria aegialodes, Psychotria sp.	Ecology
+112506	Visits flowers of: Acacia farnesiana, Croton sp., Mapouria aegialodes, Psorospermum ferrugineum, Scaevola sp.	Ecology
+112507	Visits flowers of: Acacia farnesiana, Emilia citrina, Urena lobata	Ecology
+112508	Visits flowers of: Acacia farnesiana	Ecology
+112512	Visits flowers of: Compositae (Asteraceae), Gossypium sp. (cotton), Vernonia sp.	Ecology
+112514	Visits flowers of: Cryptostegia madagascariensis, Kochneria madagascariensis, Lonchocarpus madagascariensis, Tamarindus indica, Tetracera rutenbergi, Uncarina grandidieri, Uncarina leandrii	Ecology
+112519	Visits flowers of: Vernonia sp.	Ecology
+112520	Visits flowers of: Ipomoea pes-caprae, Merremia peltata, Portulaca sp., Pyrostria major, Scaevola taccada, Stachytarpheta sp.	Ecology
+112523	Visits flowers of: Schinus terebinthifolius	Ecology
+112530	Visits flowers of: Lasiospermum bipinnatum, Pteronia divaricata	Ecology
+112532	Visits flowers of: Hermannia trifurca	Ecology
+112552	Visits flowers of: Boraginaceae, Sesamum sp.	Ecology
+112555	Visits flowers of: Emilia citrina	Ecology
+112560	Visits flowers of: Ageratum sp., Aspilia africana, Aspilia helianthoides, Emilia coccinea, Felicia sp., Harungana madagascariensis, Spermacoce verticillata, Stachytarpheta angustifolia	Ecology
+112561	Visits flowers of: Acalypha sp., Aspilia africana, Borreria verticillata, Haronga madagascariensis, Mikania cordata, Stachytarpheta angustifolia	Ecology
+112571	Visits flowers of: Chrysocoma ciliata	Ecology
+112573	Visits flowers of: Emilia citrina, Oldenlandia herbacea	Ecology
+112587	Visits flowers of: Momordica balsamina	Ecology
+112590	Visits flowers of: Momordica foetida	Ecology
+112595	Visits flowers of: Momordica balsamina	Ecology
+112602	Visits flowers of: Gossypium sp., Hibiscus esculentus, Hibiscus sp., Pavonia sp., Taraxacum sp.	Ecology
+112643	Visits flowers of: Berkheya heterophylla, Berkheya sp., Satyrium sp., Stachys aurea	Ecology
+112653	Visits flowers of: Plectranthus madagascariensis	Ecology
+112674	Visits flowers of: Acacia caffra, Adenolobus pechuelii, Anchusa capensis, Aptosimum indivisum, Aptosimum spinescens, Asclepias buchenaviana, Bergia glomerata, Berkheya carlinifolia, Berkheya schinzii, Berkheya sp., Blepharis capensis, Blepharis obmitrata, Cleome angustifolia, Cleome paxii, Cleome sp., Codon royenii, Codon schenckii, Cucumis africanus, Hermannia affinis, Hermannia comosa, Hermannia disermifolia, Hermannia marginata, Hermannia paucifolia, Hirpicium echinus, Ibicella lutea, Jamesbrittenia canescens, Lamiaceae (Labiatae), Lobostemon sp., Lycium sp., Maerua schinzii, Mesembryanthemaceae, Monechma genistifolium, Monechma mollissimum, Peliostomum leucorrhizum, Peristrophe cernua, Prenia pallens, Psilocaulon glareosum, Pteronia sp., Senecio rosmarinifolius, Senna italica, Sesamum sp., Sesamum tryphyllum, Tribulus sp., Trichodesma angustifolium, Trichodesma sp., Umbelliferae (umbellifer), Vahlia capensis, Zygophyllum simplex, Zygophyllum sp.	Ecology
+112692	Visits flowers of: Cleome angustifolia	Ecology
+112697	Visits flowers of: Trichodesma angustifolium	Ecology
+112744	Visits flowers of: Danais sp., Dichaetanthera sp., Exacum divaricatum, Pentas hindsioides, Psychotria sp., Sabicea diversifolia	Ecology
+112746	Visits flowers of: Rubiaceae	Ecology
+112753	Visits flowers of: Aristea kitchingii, Cynorkis sp., Dichaetanthera cordifolia, Dionycha bojerii, Mentha sp., Mussaenda arcuata, Pauridiantha lyallii, Plectranthus madagascariensis, Plectranthus vestitus, Solenostemon sp., Sparmannia discolor, Triainolepis emirnensis, Triumfetta pilosa	Ecology
+112758	Visits flowers of: Dichrostachys alluaudiana, Solanum sp.	Ecology
+112764	Visits flowers of: Acacia senegal, Aeollanthus sp., Cucurbitaceae (cucurbit)	Ecology
+112766	Visits flowers of: Anchusa capensis, Berkheya heterophylla, Lamiaceae (Labiatae), Senecio linifolius, Senecio rosmarinifolius	Ecology
+112768	Visits flowers of: Berkheya heterophylla	Ecology
+112771	Visits flowers of: Acacia caffra, Acacia karroo, Anchusa capensis, Cirsium sp., Lamiaceae (Labiatae), Senecio rosmarinifolius, Trichodesma africanum	Ecology
+112772	Visits flowers of: Borreria verticillata, Lantana camara, Senecio rosmarinifolius	Ecology
+112773	Visits flowers of: Acacia caffra, Acacia senegal, Adenolobus pechuelii, Asclepias buchenaviana, Blepharis capensis, Blepharis extenuata, Blepharis obmitrata, Carissa haematocarpa, Lamiaceae (Labiatae), Limonium sp., Psilocaulon salicornioides, Sesamum tryphyllum, Zygophyllum retrofractum	Ecology
+112782	Visits flowers of: Asystasia gangetica, Stachytarpheta angustifolia	Ecology
+112786	Visits flowers of: Aeollanthus sp., Borreria verticillata, Diodia sp., Solenostemon sp.	Ecology
+112790	Visits flowers of: Monechma sp.	Ecology
+112791	Visits flowers of: Delosperma lebomboense, Geigeria sp., Ipomoea sp., Othonna sp., Stachytarpheta angustifolia	Ecology
+112792	Visits flowers of: Crotalaria virgultalis, Lamiaceae (Labiatae), Limeum fenestratum	Ecology
+112795	Visits flowers of: Cosmos caudatus, Dionycha bojerii, Dyckia frigida (Dykia frigida), Gonocrypta grevei, Urena lobata	Ecology
+112796	Visits flowers of: Stachytarpheta angustifolia	Ecology
+112803	Visits flowers of: Acacia karroo, Asclepias buchenaviana, Blepharis capensis	Ecology
+112809	Visits flowers of: Acalypha sp., Ageratum conyzoides, Ageratum sp., Amaranthus hybridus, Antigonon leptopus, Araliaceae, Artocarpus altilis var. semifera, Aspilia africana, Blighia sapida, Boerhavia erecta, Borreria sp., Borreria verticillata, Brassica sinensis, Caesalpinia pulcherrima, Cajanus cajan, Celosia sp., Cissus sp., Cleome viscosa, Cleome viscosa, Clerodendron sp., Cocos nucifera, Cogniauxia podolaena, Combretum platypetalum, Combretum splendens, Commelina benghalensis, Compositae, Crinum jagus, Crotalaria pallida, Crotalaria sp., Croton lobatus, Cyperus sp., Dacryodes edulis, Dichostemma glaucescens, Digitaria sp., Elephantopus mollis, Emilia coccinea, Eucalyptus robusta, Euphorbia heterophylla, Euphorbia pulcherrima, Euphorbiaceae, Fabaceae (Papilionaceae), Genipa clusiifolia, Haronga madagascariensis, Hibiscus sabdariffa, Hymenocallis sp., Indigofera sp., Ipomoea sp., Jatropha multifida, Justicia anselliana, Kyllinga sp., Lagerstroemia indica, Leptoderris sp., Leucaena leucocephala, Loranthus sp., Ludwigia octovalvis, Mangifera indica, Ocimum sp., Oryza sativa, Pachira aquatica, Paspalum sp., Passiflora edulis, Passiflora nitida, Phaseolus coccineus, Poaceae (millet), Polygonum lanigerum, Sansevieria laurentii, Sesamum sp., Sida acuta, Solenostemon sp., Sorghum arundinaceum, Spondias mombin, Stachytarpheta angustifolia, Stachytarpheta sp., Talinum portulacifolium, Tephrosia vogelii, Urena lobata, Zea mays	Ecology
+112814	Visits flowers of: Agelaea pentagyna (Agelaena pentagyna)	Ecology
+112815	Visits flowers of: Nervilia petraea	Ecology
+112816	Visits flowers of: Afzelia africana, Allophylus africanus, Annona muricata, Borassus aethiopicum, Bridelia ferruginea, Caesalpinia pulcherrima, Carica papaya, Cassia javanica, Cassia siamea, Citrus aurantium, Crossopteryx febrifuga, Cussonia barteri, Entada mannii, Eucalyptus sp., Euphorbia sp., Ixora sp., Lippia sp., Luffa sp., Mangifera indica, Paullinia pinnata, Piliostigma thonningii, Psidium guajava, Terminalia glaucescens, Zea mays	Ecology
+112817	Visits flowers of: Acacia farnesiana, Emilia citrina	Ecology
+112818	Visits flowers of: Annona squamosa, Bakerella clavata, Calantica cerasifolia, Crotalaria sp., Erythroxylum platyclados, Fabaceae (Papilionaceae), Gouania sp., Helinus integrifolius, Kochneria madagascariensis, Nervilia petraea, Opuntia sp., Psorospermum malifolium, Secamone brachystigma, Solenangis cornuta, Tetracera rutenbergi, Ziziphus sp., Zygophyllum depauperatum	Ecology
+112819	Visits flowers of: Erythroxylum platyclados, Fabaceae, Gouania sp., Helinus integrifolius, Jatropha sp., Kochneria madagascariensis, Opuntia sp., Scaevola sp., Secamone brachystigma, Ziziphus sp.	Ecology
+112820	Visits flowers of: Acacia farnesiana, Anthocleista amplexicaulis, Dichaetanthera sp., Exacum sp.	Ecology
+112832	Visits flowers of: Asystasia gangetica, Axonopus flexuosus, Digitaria didactyla, Gomphrena celosioides, Mimosa pigra, Panicum umbellatum, Paspalum commersoni, Paspalum conjugatum, Stenotaphrum dimidiatum, Tetracera rutenbergi	Ecology
+112834	Visits flowers of: Arctotheca calendula, Arctotheca sp., Arctotis sp., Dimorphotheca sp., Gazania sp., Osteospermum sp.	Ecology
+112836	Visits flowers of: Guiera senegalensis, Ziziphus mauritiana	Ecology
+113102	Visits flowers of: Aspilia africana, Bidens pilosa, Cajanus cajan, Cassia occidentalis, Citrullus lanatus, Cleome viscosa, Dacryodes edulis, Eulophia cristata, Ipomoea involucrata, Mangifera indica, Mimosa invisa, Mimosa pudica, Paullinia pinnata, Phaseolus coccineus, Phaseolus vulgaris, Psidium guajava, Pueraria javanica, Senna javanica, Sida acuta, Tithonia diversifolia, Vigna unguiculata	Ecology
+113276	Visits flowers of: Indigofera spicata	Ecology
+113278	Visits flowers of: Athanasia trifurcata, Monopsis debilis, Monopsis simplex, Senecio sp., Wahlenbergia annularis, Wahlenbergia pilosa, Wahlenbergia sp.	Ecology
+113280	Visits flowers of: Indigofera sp.	Ecology
+113282	Visits flowers of: Athanasia sp., Athanasia trifurcata, Cotula (cf. Cotula), Crassula dichotoma, Galenia sarcophylla, Monopsis debilis, Senecio sp., Wahlenbergia annularis, Wahlenbergia pilosa	Ecology
+113317	Visits flowers of: Oxalis sp., Ruschia unca	Ecology
+113318	Visits flowers of: Heliophila, Heliophila coronifolia, Hermbstaedtia glauca, Zygophyllum prismatocarpum, Zygophyllum sp.	Ecology
+113319	Visits flowers of: Drosanthemum sp., Prenia sladeniana, Wahlenbergia sp.	Ecology
+113321	Visits flowers of: Cheiridopsis cigarettifera, Cheiridopsis denticulata, Herrea sp., Moraea fugax, Romulea subfistulosa, Ruschia sp., Ruschia unca	Ecology
+113322	Visits flowers of: Diascia cardiosepala, Diascia dissimulans, Diascia floribunda, Diascia macrophylla, Diascia nana, Diascia unilabiata, Homeria bifida, Oxalis sp., Ruschia sp., Senecio sp., Zygophyllum foetidum	Ecology
+113323	Visits flowers of: Asteraceae	Ecology
+113324	Visits flowers of: Heliophila sp.	Ecology
+113325	Visits flowers of: Ruschia sp.	Ecology
+113326	Visits flowers of: Codon royenii, Heliophila sp., Hermbstaedtia glauca, Osteospermum sp., Trichodesma africanum	Ecology
+113327	Visits flowers of: Heliophila sp., Hermannia sp., Homeria bifida, Lebeckia sericea, Nemesia leipoldtii, Oxalis sp., Selago minutissima, Senecio arenarius, Senecio sp., Sparaxis fragrans	Ecology
+113329	Visits flowers of: Augea capensis	Ecology
+113331	Visits flowers of: Codon royenii, Hermbstaedtia glauca, Trichodesma africanum, Zygophyllum prismatocarpum	Ecology
+113334	Visits flowers of: Wahlenbergia sp.	Ecology
+113336	Visits flowers of: Lasiospermum bipinnatum	Ecology
+113337	Visits flowers of: Ixia rapunculoides, Stoeberia sp.	Ecology
+113341	Visits flowers of: Zygophyllum foetidum	Ecology
+113348	Visits flowers of: Chrysanthemum sp., Eriocephalus ericoides, Oxalis sp., Ruschia unca	Ecology
+113349	Visits flowers of: Augea capensis, Osteospermum sinuatum	Ecology
+113350	Visits flowers of: Senecio sp.	Ecology
+113353	Visits flowers of: Wahlenbergia sp.	Ecology
+128620	Visits flowers of: Hermannia sp.	Ecology
+130380	Visits flowers of: Compositae	Ecology
+130384	Visits flowers of: Pteronia incana	Ecology
+130394	Visits flowers of: Aizoaceae, Brassicaceae, Compositae, Molluginaceae, Oxalidaceae, Proteaceae	Ecology
+130437	Visits flowers of: Lebeckia sericea, Monechma genistifolium, Polymita albiflora	Ecology
+130442	Visits flowers of: Cleome	Ecology
+130496	Visits flowers of: Acacia caffra, Acacia karroo, Allium sp., Amaranthaceae, Aptosimum procumbens, Aspalathus subtingens, Bergia glomerata, Brassicaceae, Bulbine frutescens, Compositae, Eucalyptus sp., Fabaceae, Foeniculum vulgare, Grewia occidentalis, Iridaceae, Liliaceae, Loganiaceae, Lycium sp., Medicago sativa, Melolobium candicans, Mesembryanthemaceae, Myrtaceae, Poaceae, Polygala pinifolia, Portulaca sp., Prosopis chilensis, Rhus sp., Solanaceae, Tribulus sp., Trifolium sp., Vernonia sp., Vicia flava, Zea mays	Ecology
+130584	Visits flowers of: Cajanus cajan	Ecology
+130588	Visits flowers of: Crotalaria podocarpa, Monechma cleomoides, Sesamum	Ecology
+130600	Visits flowers of: Crotalaria, Leucas pechuelii, Monechma cleomoides	Ecology
+130627	Visits flowers of: Hermannia sp.	Ecology
+130635	Visits flowers of: Lebeckia sp.	Ecology
+130639	Visits flowers of: Mesembryanthemum crystallinum, Mesembryanthemum grandiflorum, Mesembryanthemum guerichianum, Mesembryanthemum sp.	Ecology
+130650	Visits flowers of: Acanthospermum hispidum	Ecology
+130653	Visits flowers of: Brachiaria ruziziensis, Cleome viscosa	Ecology
+130807	Visits flowers of: Nylandtia spinosa	Ecology
+130810	Visits flowers of: Phyllopodium heterophyllum, Phyllopodium pumilum, Phyllopodium sp., Polycarena sp.	Ecology
+130811	Visits flowers of: Arctotheca calendula, Arctotheca sp., Hemimeris racemosa, Othonna sp., Phyllopodium heterophyllum, Polycarena sp., Selago pinguicola, Selago sp.	Ecology
+130828	Visits flowers of: Borreria sp., Dacryodes edulis, Ipomoea sp., Sesamum sp., Zea mays	Ecology
+131011	Visits flowers of: [unnamed], Emilia sonchifolia, Euphorbia heterophylla, Ludwigia octovalvis, Paspalum distichum, Paspalum orbiculare, Paspalum vaginatum, Sorghum arundinaceum	Ecology
+131169	Visits flowers of: Zygophyllum foetidum	Ecology
+111520	Visits flowers of: Cucumeropsis mannii, Dacryodes edulis, Dissotis brazzae, Dissotis multiflora, Heterotis decumbens, Hypoestes forskaolii, Ipomoea asarifolia, Manihot esculenta, Otomeria guineensis	Ecology
+104308	Visits flowers of: Mesembryanthemum crystallinum, Mesembryanthemum grandiflorum, Mesembryanthemum guerichianum, Mesembryanthemum sp.	Ecology
+103410	Visits flowers of: Ageratum sp., Asystasia gangetica, Bidens pilosa, Chamaecrista sp., Compositae, Coreopsis grandiflora, Coreopsis tinctoria, Cucumis sativus, Dichapetalum leucosia, Dombeya sp., Emilia citrina, Euphorbia milii, Gaillardia sp., Haronga madagascariensis, Hieracium capense, Hypochaeris radicata, Kaliphora madagascariensis, Lobelia agrestis, Lobelia fervens, Ludwigia octovalvis, Merremia peltata, Nervilia petraea, Ocimum suave, Oldenlandia herbacea, Otiophora pauciflora, Polygonum chinense, Polystachya rosea, Portulaca sp., Premna corymbosa, Solanum nigrum, Solenostemon bojeri, Spermacoce scandens, Stachys sp., Tamarindus sp., Thunbergia alata, Trachypogon spicatus, Vernonia garnieriana, Waltheria madagascariensis, Xerophyta dasylirioides, Ziziphus sp.	Ecology
+110765	Visits flowers of: Heliophila sp.	Ecology
+111986	Visits flowers of: Ageratum sp., Aspilia africana, Borreria verticillata, Cajanus cajan, Calopogonium mucunoides, Cleome ciliata, Crotalaria sp., Elephantopus sp., Fabaceae (Papilionaceae), Lamiaceae (Labiatae), Milletia sp., Pachyrhizus erosus, Scoparia dulcis, Sida acuta, Solenostemon sp., Stachytarpheta angustifolia, Tetraberlinia bifoliolata, Triumfetta eriophlebia, Triumfetta sp., Waltheria indica	Ecology
+112016	Visits flowers of: Crassula subaphylla var. subaphylla, Polymita albiflora, Zygophyllum retrofractum	Ecology
+111980	Visits flowers of: Cajanus cajan, Melolobium candicans, Stachytarpheta angustifolia, Tetraberlinia bifoliolata	Ecology
+111951	Visits flowers of: Poaceae (sedge)	Ecology
+111958	Visits flowers of: Aloe ferox, Aspalathus chortophila, Aspalathus subtingens, Crotalaria damarensis, Geigeria pectidea, Monechma mollissimum, Pisum sativum (yellow pea)	Ecology
+111947	Visits flowers of: Asclepias buchenaviana, Lebeckia sericea	Ecology
+111942	Visits flowers of: Borreria verticillata, Indigofera sp., Triumfetta sp.	Ecology
+111976	Visits flowers of: Acacia karroo	Ecology
+112039	Visits flowers of: Anchusa capensis, Aspalathus linearis, Aspalathus pulicifolia, Aspalathus spinescens, Blepharis extenuata, Disa filicornis, Hermannia trifurca, Hermbstaedtia glauca, Lebeckia pungens, Lebeckia sericea, Lebeckia spinescens, Melolobium candicans, Moraea bifida, Moraea tripetala, Nemesia sp., Pelargonium sp., Polygala virgata, Polymita albiflora, Pteronia incana, Wiborgia monoptera, Wiborgia sp., Zygophyllum meyeri, Zygophyllum retrofractum	Ecology
+112036	Visits flowers of: Lebeckia sericea, Moraea tripetala	Ecology
+112102	Visits flowers of: Asclepias buchenaviana, Aspalathus chortophila, Cleome paxii, Geigeria sp., Hermannia modesta, Lebeckia multiflora, Lessertia macrostachya, Limeum fenestratum, Maerua gilgii, Mesembryanthemaceae, Pentzia sphaerocephala, Polymita albiflora, Prenia pallens, Psilocaulon salicornioides, Sesamum tryphyllum, Wiborgia sp., Zygophyllum simplex	Ecology
+112144	Visits flowers of: Cajanus cajan, Cleome angustifolia, Crotalaria argyraea, Crotalaria sp., Phaseolus coccineus, Stachytarpheta angustifolia	Ecology
+112118	Visits flowers of: Ageratum conyzoides, Aspilia bojeri, Bidens pilosa, Campylospermum deltoideum, Cleome hirta, Compositae, Crotalaria ibityensis, Crotalaria uncinella, Desmodium adscendens robustum, Desmodium canum, Dyckia frigida, Elephantopus scaber, Emilia citrina, Emilia sp., Erigeron sp., Eupatorium sp., Euphorbia milii, Euphorbia pulcherrima, Euphorbia sp., Hieracium capense, Indigofera sp., Inula speciosa, Leptodesmia radiata, Ludwigia octovalvis, Phellolophium madagascariense, Polygonum sp., Premna corymbosa, Psiadia altissima, Pycnostachys coerulea, Salvia coccinea, Senecio sp., Solanum sp., Solenostemon bojeri, Triumfetta rhomboidea, Verbena brasiliensis, Vernonia appendiculata, Vernonia sp., Waltheria madagascariensis	Ecology
+112486	Visits flowers of: Aneilema hockii, Aneilema petersii	Ecology
+106289	Visits flowers of: Aponogeton fenestralis, Borreria verticillata, Dombeya sp., Floscopa glomerata, Ranunculus pinnatus, Spermacoce scandens	Ecology
+112124	Visits flowers of: Pachyrhizus erosus	Ecology
+111930	Visits flowers of: Cajanus cajan	Ecology
+112033	Visits flowers of: Blepharis capensis	Ecology
+112092	Visits flowers of: Lebeckia sericea	Ecology
+112086	Visits flowers of: Wiborgia sp.	Ecology
+112099	Visits flowers of: Centrosema pubescens, Pachyrhizus erosus	Ecology
+111741	Visits flowers of: Indigofera longispina, Mesembryanthemaceae	Ecology
+111725	Visits flowers of: Berkheya fruticosa, Polymita albiflora, Prenia pallens, Prenia sladeniana	Ecology
+111722	Visits flowers of: Mesembryanthemum guerichianum, Prenia pallens	Ecology
+111716	Visits flowers of: Anchusa capensis, Berkheya heterophylla, Selago sp.	Ecology
+111818	Visits flowers of: Berkheya fruticosa, Compositae, Hermannia sp., Hermannia trifurca, Hirpicium alienatum, Lebeckia sericea, Osteospermum sinuatum, Pteronia incana, Zygophyllum meyeri	Ecology
+112062	Visits flowers of: Asclepias buchenaviana, Athanasia filiformis, Berkheya heterophylla, Berkheya sp., Blepharis capensis, Compositae, Lamiaceae (Labiatae), Mesembryanthemaceae, Peristrophe sp., Sarcostemma viminale, Senecio pterophorus, Senecio sp.	Ecology
+111743	Visits flowers of: Fabaceae (Papilionaceae), Hermannia sp., Indigofera longispina, Lebeckia multiflora, Zygophyllum stapffii	Ecology
+111807	Visits flowers of: Acacia horrida	Ecology
+111791	Visits flowers of: Blepharis capensis, Blepharis extenuata, Zygophyllum retrofractum	Ecology
+111748	Visits flowers of: Fabaceae (Papilionaceae), Indigofera longispina, Indigofera sp., Lebeckia sericea, Mesembryanthemaceae, Mesembryanthemum guerichianum, Prenia sladeniana, Pteronia incana, Zygophyllum meyeri	Ecology
+112056	Visits flowers of: Lebeckia sp.	Ecology
+111598	Visits flowers of: Berkheya fruticosa, Chrysocoma ciliata, Hirpicium alienatum, Leysera gnaphalodes, Osteospermum oppositifolium, Pteronia incana, Senecio arenarius, Wahlenbergia annularis, Zygophyllum meyeri	Ecology
+111616	Visits flowers of: Borreria verticillata, Compositae, Ocimum sp., Triumfetta eriophlebia	Ecology
+111613	Visits flowers of: Triumfetta eriophlebia	Ecology
+111596	Visits flowers of: Ifloga paronychioides, Othonna arbuscula	Ecology
+111591	Visits flowers of: Alona rostrata (?Alona rostrata), Mesembryanthemum fenchelii, Mesembryanthemum grandiflorum, Mesembryanthemum guerichianum, Mesembryanthemum sp., Prenia pallens, Prenia sladeniana, Psilocaulon sp., Sphalmanthus sp.	Ecology
+111590	Visits flowers of: Brownanthus kuntzei, Carpobrotus edulis, Hydroidea sp., Mesembryanthemum barklyi, Mesembryanthemum crystallinum, Mesembryanthemum fenchelii, Mesembryanthemum grandiflorum, Mesembryanthemum guerichianum, Mesembryanthemum sp., Opophytum sp., Prenia pallens, Prenia sladeniana, Prenia vanrensburgii, Psilocaulon salicornioides, Psilocaulon sp., Sphalmanthus sp., Sphalmanthus vigilans	Ecology
+111589	Visits flowers of: Grielum humifusum, Grielum sp.	Ecology
+111588	Visits flowers of: Hydroidea sp., Malephora lutea, Mesembryanthemaceae, Mesembryanthemum crystallinum, Opophytum sp., Psilocaulon simile, Ruschia grisea, Sphalmanthus sp., Sphalmanthus vigilans	Ecology
+111587	Visits flowers of: Berkheya canescens, Berkheya carlinifolia, Berkheya fruticosa, Berkheya sp.	Ecology
+111687	Visits flowers of: Arctotheca calendula, Aspalathus spinescens, Grielum humifusum, Hermannia sp., Wahlenbergia sp.	Ecology
+111684	Visits flowers of: Compositae, Geigeria sp., Othonna sp.	Ecology
+111672	Visits flowers of: Acacia karroo, Acacia sp., Aristea sp., Artemisia sp., Bergia glomerata, Conyza bonariensis, Cotyledon paniculata, Lantana camara, Lasiospermum bipinnatum, Watsonia sp.	Ecology
+111631	Visits flowers of: Cotula sp., Senecio sp.	Ecology
+112063	Visits flowers of: Ageratum sp., Aspilia africana, Borreria verticillata, Cajanus cajan, Calopogonium mucunoides, Cleome ciliata, Elephantopus sp., Fabaceae (Papilionaceae), Lamiaceae (Labiatae), Milletia sp., Pachyrhizus erosus, Scoparia dulcis, Sida acuta, Solenostemon sp., Stachytarpheta angustifolia, Tetraberlinia bifoliolata, Triumfetta eriophlebia, Triumfetta sp., Waltheria indica	Ecology
+111895	Visits flowers of: Crotalaria sp., Dacryodes edulis, Pachyrhizus erosus	Ecology
+111899	Visits flowers of: Borreria verticillata, Coreopsis tinctoria, Crotalaria, Dalbergia bracteolata, Desmodium adscendens, Desmodium ramosissimum, Emilia humifusa, Erythroxylum platyclados, Escholtzia sp., Euphorbia pulcherrima, Gardenia sp., Gonocrypta grevei, Grewia sp., Kochneria madagascariensis, Mimosa pudica, Mundulea telfairii, Premna corymbosa, Psorospermum malifolium, Strychnos myrtoides, Tetracera rutenbergi (Tetracera rutenbergii), Tiliaceae	Ecology
+112145	Visits flowers of: Cajanus cajan, Centrosema pubescens, Crotalaria sp., Pachyrhizus erosus, Phaseolus vulgaris	Ecology
+111911	Visits flowers of: Aeschynomene dimidiata bequaerti, Arecaceae (Palmaceae), Aspalathus subtingens, Commelinaceae, Compositae, Crotalaria sp., Croton hirtus, Dolichos complanatus, Indigofera capitata, Justicia sp., Lythraceae, Ocimum sp., Sesamum sp., Solenostemon sp., Tephrosia sp., Virectaria multiflora	Ecology
+111853	Visits flowers of: Aloe ferox, Anchusa capensis, Aspalathus chortophila, Blepharis capensis, Solenostemon sp.	Ecology
+111874	Visits flowers of: Aloe ferox, Aspalathus subtingens, Melolobium candicans, Senecio pterophorus	Ecology
+111879	Visits flowers of: Aspalathus chortophila	Ecology
+111861	Visits flowers of: Berkheya carlinifolia	Ecology
+111884	Visits flowers of: Acacia karroo	Ecology
+111871	Visits flowers of: Pachyrhizus erosus	Ecology
+111869	Visits flowers of: Psychotria sp.	Ecology
+111877	Visits flowers of: Asclepias buchenaviana	Ecology
+112625	Visits flowers of: Athanasia trifurcata, Berkheya heterophylla, Berkheya sp., Oncosiphon piluliferum, Osteospermum sinuatum, Pteronia incana, Senecio arenarius, Zygophyllum sp.	Ecology
+112635	Visits flowers of: Asclepias buchenaviana, Blepharis diversispina, Cleome angustifolia, Crotalaria podocarpa, Crotalaria sp., Grewia flava, Hermannia comosa, Leucas pechuelii, Tribulus sp.	Ecology
+112631	Visits flowers of: Athanasia sp., Athanasia trifurcata, Berkheya sp., Didelta carnosa carnosa, Polymita albiflora, Tribulus zeyheri	Ecology
+112630	Visits flowers of: Berkheya fruticosa, Hermbstaedtia glauca, Osteospermum sp., Pelargonium capitatum, Pteronia divaricata, Senecio sp.	Ecology
+112435	Visits flowers of: Aspalathus subtingens, Berkheya heterophylla, Diospyros sp., Lasiospermum bipinnatum, Moraea inclinata, Moraea unguiculata, Phyllopodium cuneifolium	Ecology
+112628	Visits flowers of: Senecio arenarius, Sesamum sp.	Ecology
+112624	Visits flowers of: Arctotheca calendula, Berkheya fruticosa, Berkheya rigida, Compositae, Conicosia elongata, Hermannia cuneifolia, Lamiaceae (Labiatae), Mesembryanthemaceae, Oncosiphon grandiflorum, Pteronia incana, Senecio arenarius, Senecio lobelioides, Senecio longifolius, Senecio sp., Wahlenbergia prostrata	Ecology
+112618	Visits flowers of: Helianthus annuus, Hirpicium gazanioides, Lycium sp.	Ecology
+112629	Visits flowers of: Athanasia filiformis, Athanasia sp., Senecio rosmarinifolius	Ecology
+112715	Visits flowers of: Anchusa capensis	Ecology
+112714	Visits flowers of: Berkheya fruticosa, Berkheya heterophylla, Berkheya onobromoides, Berkheya sp., Lamiaceae, Senecio linifolius	Ecology
+112707	Visits flowers of: Monechma mollissimum	Ecology
+112702	Visits flowers of: Pteronia sp.	Ecology
+112700	Visits flowers of: Acanthopsis spathularis, Anchusa capensis, Gladiolus sp., Grielum humifusum, Heliophila sp., Hermannia disermifolia, Hermannia disermifolia, Hermannia scordifolia, Hermannia sp., Hermannia trifurca, Herrea sp., Lobostemon sp., Lobostemon trichotomus, Lycium sp., Mesembryanthemaceae, Mesembryanthemum guerichianum, Moraea algoensis, Moraea angusta, Moraea ciliata, Moraea comptonii, Moraea cookii, Moraea demissa, Moraea gawleri, Moraea longistyla, Moraea miniata, Moraea sp., Moraea vallisbelli, Nemesia ligulata, Oxalis sp., Pelargonium sp., Peliostomum virgatum, Satyrium sp., Tetragonia sp., Trachyandra bulbinifolia, Zygophyllum divaricatum, Zygophyllum sp.	Ecology
+112698	Visits flowers of: Heliophila sp., Lycium sp., Zygophyllum divaricatum	Ecology
+112613	Visits flowers of: Hermannia disermifolia	Ecology
+112615	Visits flowers of: Grewia occidentalis	Ecology
+112535	Visits flowers of: Berkheya heterophylla, Hermannia sp., Ruschia elineata, Ruschia robusta	Ecology
+112612	Visits flowers of: Berkheya schinzii, Cleome paxii, Hirpicium gazanioides, Osteospermum microcarpum	Ecology
+112605	Visits flowers of: Hibiscus esculentus, Ipomoea sp.	Ecology
+112604	Visits flowers of: Ipomoea arborescens, Ipomoea pes-caprae	Ecology
+112585	Visits flowers of: Grielum humifusum, Helichrysum sp., Hemimeris racemosa, Herrea sp., Senecio arenarius	Ecology
+112584	Visits flowers of: Oophytum nanum, Ruschia sp.	Ecology
+112581	Visits flowers of: Gisekia africana, Indigofera auricoma	Ecology
+112579	Visits flowers of: Compositae (button composite), Ruschia elineata, Senecio arenarius	Ecology
+112576	Visits flowers of: Coelanthum grandiflorum	Ecology
+129436	Visits flowers of: Lasiospermum bipinnatum, Oxalis, Senecio sp., Wahlenbergia sp.	Ecology
+128741	Visits flowers of: Asystasia gangetica, Borreria sp., Calopogonium mucunoides, Cassia obtusifolia, Dissotis multiflora, Floscopa sp., Mimosa pudica, Sauvagesia erecta, Trichodesma zeylanicum, Turnera subulata	Ecology
+130376	Visits flowers of: Pelargonium myrrhifolium (Hoplitis (Anthocopa) namaquaensis is valid as ausi)	Ecology
+112736	Visits flowers of: Acrotome inflata, Anchusa capensis, Ballota africana, Berkheya heterophylla, Berkheya sp., Cirsium vulgare, Peristrophe cernua, Senecio linifolius, Senecio sp.	Ecology
+112748	Visits flowers of: Berkheya sp., Blepharis capensis, Leucas capensis, Leucas pechuelii (Leucas pechuelli), Lycium sp.	Ecology
+112754	Visits flowers of: Amphorocalyx multiflorus, Campylospermum deltoideum, Dionycha bojerii, Rhamphispermum gerardiodes, Solanaceae, Solanum erythracanthum	Ecology
+112737	Visits flowers of: Anchusa capensis, Arctotis laevis, Ballota africana, Berkheya heterophylla, Compositae, Hermannia disermifolia, Herrea sp., Homeria sp., Metalasia muricata, Oftia africana, Pteronia sp., Satyrium sp., Senecio linifolius, Wachendorfia sp., Wahlenbergia sp.	Ecology
+112756	Visits flowers of: Gaertnera macrostipula, Medinilla chermezonii, Rubiaceae	Ecology
+112733	Visits flowers of: Acanthaceae, Acrotome inflata, Anchusa capensis, Berkheya heterophylla, Cirsium vulgare, Lamiaceae, Peristrophe sp., Senecio linifolius	Ecology
+112732	Visits flowers of: Anchusa capensis, Berkheya fruticosa, Berkheya heterophylla, Compositae (thistle), Pentzia incana, Senecio linifolius	Ecology
+112731	Visits flowers of: Acanthopsis spathularis, Hermannia disermifolia, Lycium sp.	Ecology
+112738	Visits flowers of: Berkheya sp., Sphalmanthus sp.	Ecology
+112821	Visits flowers of: Andropogon sp., Annona senegalensis, Antidesma membranaceum, Bersama paulinoides, Borassus aethiopicum, Bridelia ferruginea, Cochlospermum planchonii, Combretum sp., Crossopteryx febrifuga, Crossopteryx sp., Cussonia barteri, Dalbergiella welwitschii, Dracaena perrotteti, Elaeis guineensis, Entada mannii, Hyparrhenia sp. (Hyparrhenia spp.), Imperata cylindrica, Lippia sp., Loudetia simplex, Panicum phragmitoides, Phoenix reclinata, Piliostigma thonningii, Terminalia glaucescens, Vitex doniana	Ecology
+112811	Visits flowers of: Aframomum sp., Alchornea hirtella, Asystasia gangetica, Averrhoa carambola, Bidens pilosa, Borreria verticillata, Cajanus cajan, Carapa grandiflora (Carapa grandifolia), Cassia occidentalis, Cassia sp., Chrysophyllum gorungosanum, Coffea sp., Commelina sp., Crotalaria sp., Croton macrostachys, Cyperus sp., Dacryodes edulis, Datura stramonium, Duparquetia orchidacea, Elephantopus mollis, Faurea saligna, Ficus capensis, Gouania longipetala, Haronga madagascariensis, Impatiens sp., Ipomoea sp., Leucaena leucocephala, Macaranga sp., Maesa lanceolata, Mangifera indica, Markhamia lutea, Mikania cordata, Mimosa pudica, Mimulopsis solmsii, Mimulopsis sp., Myrianthus holstii, Myrica salicifolia, Nuxia congesta, Otomeria guineensis, Pennisetum purpereum, Piper guineensis, Prunus africana, Psidium guajava, Sesamum sp., Stachytarpheta angustifolia, Syzygium guineense, Urena lobata, Vernonia conferta, Vernonia sp., Zea mays	Ecology
+112810	Visits flowers of: Acacia mellifera, Spirostachys africana	Ecology
+112761	Visits flowers of: Cassia laevigata, Gravesia vestita (Gravisia vestita), Mapouria sp., Medinilla chermezonii, Tristellateia madagascariensis, Tristemma virusanum	Ecology
+112757	Visits flowers of: Anchusa capensis, Ballota africana, Hermannia disermifolia, Hermannia disermifolia, Trichodesma africanum	Ecology
+112215	Visits flowers of: Blepharis capensis, Combretum sp., Eulophia angolensis, Eulophia cucullata, Eulophia speciose, Foeniculum vulgare, Grewia occidentalis, Lycium sp., Medicago sativa, Petrea sp., Salvia sp., Sesbania bispinosa, Solanum sp.	Ecology
+112220	Visits flowers of: Asystasia sp., Borreria verticillata, Centrosema pubescens (Centrostema pubescens), Dissotis multiflora, Phaseolus vulgaris, Sesamum sp., Solanum angustifolia, Stachytarpheta angustifolia	Ecology
+112225	Visits flowers of: Adenolobus pechuelii, Aloe sp., Grewia occidentalis, Monechma mollissimum, Monechma sp., Ocimum americanum, Plectranthus sp., Polygala sp.	Ecology
+112646	Visits flowers of: Ondetia linearis	Ecology
+112170	Visits flowers of: Fabaceae (Papilionaceae), Waltheria madagascariensis	Ecology
+112156	Visits flowers of: Acacia karroo, Aspalathus chortophila, Blepharis capensis, Sarcostemma viminale	Ecology
+112153	Visits flowers of: Aspalathus linearis, Lamiaceae (Labiatae)	Ecology
+112182	Visits flowers of: Asystasia gangetica, Asystasia sp., Borreria verticillata, Cajanus cajan, Cassia occidentalis, Cassia sp., Centrosema pubescens, Cleome viscosa, Crotalaria sp., Cucumis sativus, Dissotis congolensis, Dissotis multiflora, Heterotis decumbens, Ipomoea leari, Ipomoea sp., Manihot utilissima, Pachyrhizus erosus, Phaseolus coccineus, Phaseolus vulgaris, Psychotria sp., Sesamum sp., Solanum incanum, Solanum melongena, Stachytarpheta angustifolia, Tetraberlinia bifoliolata, Tithonia sp., Vigna unguiculata	Ecology
+112237	Visits flowers of: Citrullus lanatus	Ecology
+112192	Visits flowers of: Agelaea pentagyna, Anthocleista amplexicaulis, Asystasia sp., Bambuseae, Borreria verticillata, Camellia sinensis (Camellia thea), Campylospermum deltoideum, Campylospermum obtusifolium, Capparis mitchelli, Cosmos caudatus, Crotalaria lanceolata, Crotalaria micans, Crotalaria pallida, Crotalaria sp., Cucumis sativus, Cymbidiella falcigera, Dianella ensifolia, Dichaetanthera oblongifolia, Dichaetanthera sp., Diporidium greveanum, Duranta repens, Exacum divaricatum, Gouania sp., Grewia cuneifolia, Grewia sp., Haronga madagascariensis, Hibbertia coriacea, Ipomoea pes-caprae, Justicia sp., Lagerstroemia indica, Medinilla chermezonii, Merremia peltata, Mimosa pigra, Mimosa pudica, Musa sp. (banana), Phaseolus vulgaris, Polygala virgata, Premna corymbosa, Psidium guajava, Psychotria obtusifolia, Pyrostria major, Rubus alceifolius, Sesamum sp., Stachytarpheta angustifolia, Tetracera rutenbergi, Tithonia diversifolia, Tricalysia madagascariensis, Tristemma virusanum, Urena lobata, Vernonia appendiculata	Ecology
+112189	Visits flowers of: Stachytarpheta angustifolia	Ecology
+112183	Visits flowers of: Aspalathus cordata, Psoralea aphylla, Psoralea pinnata	Ecology
+112179	Visits flowers of: Polymita albiflora	Ecology
+112317	Visits flowers of: Dolichos lablab, Gossypium sp. (cotton)	Ecology
+112338	Visits flowers of: Aptenia cordifolia, Asparagus officinalis, Asystasia sp., Cucumis sativus, Ipomoea batatas, Lobelia agrestis, Oldenlandia herbacea, Oldenlandia sp., Portulaca sp.	Ecology
+112353	Visits flowers of: Berkheya heterophylla, Psoralea oligophylla	Ecology
+112308	Visits flowers of: Gossypium sp. (cotton), Ocimum basilicum	Ecology
+112305	Visits flowers of: Adenolobus pechuelii, Hermannia sp., Limeum aethiopicum, Tribulus cristatus, Vahlia capensis	Ecology
+112302	Visits flowers of: Acacia farnesiana, Compositae, Emilia citrina, Emilia humifusa, Lantana camara, Rubus sp.	Ecology
+112300	Visits flowers of: Carpobrotus edulis	Ecology
+112295	Visits flowers of: Dacryodes edulis, Stachytarpheta angustifolia	Ecology
+112234	Visits flowers of: Aloe sp., Mesembryanthemaceae, Prenia pallens	Ecology
+112430	Visits flowers of: Mesembryanthemum guerichianum	Ecology
+112380	Visits flowers of: Aizoaceae, Cephalophyllum sp., Drosanthemum sp., Mesembryanthemaceae, Psilocaulon sp.	Ecology
+112375	Visits flowers of: Ocimum basilicum, Poinciana sp.	Ecology
+112374	Visits flowers of: Acacia, Aloe	Ecology
+112357	Visits flowers of: Aizoaceae, Aptosimum decumbens, Aptosimum sp., Blepharis mitrata, Blepharis sp., Brownanthus pubescens, Drosanthemum sp., Geigeria pectidea, Geigeria sp., Limeum fenestratum, Mesembryanthemaceae, Peliostomum leucorrhizum, Prenia pallens, Psilocaulon, Rhigozum trichotomum	Ecology
+112292	Visits flowers of: Cleome paxii, Lebeckia multiflora, Maerua schinzii, Salvia dentata, Sisyndite spartea, Virgilia oroboides	Ecology
+112259	Visits flowers of: Coffea sp., Solanum incanum	Ecology
+112256	Visits flowers of: Orthosiphon sp.	Ecology
+112245	Visits flowers of: Mentha sp., Milletia sp., Sphenostylis sp.	Ecology
+112268	Visits flowers of: Acacia caffra, Berkheya sp., Convolvulus sp., Grewia occidentalis, Lebeckia multiflora, Lycium sp., Maerua schinzii, Medicago sativa (lucerne), Ruschia sp., Salvia dentata, Sisyndite spartea, Tribulus cristatus, Wiborgia sp.	Ecology
+104315	Visits flowers of: Anchusa capensis, Berkheya heterophylla, Selago sp., Senecio sp.	Ecology
+104439	Visits flowers of: Cajanus cajan, Mimosa pudica, Tithonia diversifolia	Ecology
+103889	Visits flowers of: Grielum grandiflorum, Grielum humifusum, Grielum sinuatum, Grielum sp., Neuradopsis austro-africana, Neuradopsis sp., Tribulus sp.	Ecology
+104560	Visits flowers of: Borreria sp., Cajanus cajan, Crotalaria argyraea, Crotalaria pallida, Crotalaria sp., Dacryodes edulis, Solenostemon sp., Stylosanthes erecta, Tetraberlinia bifoliolata, Vigna unguiculata	Ecology
+104619	Visits flowers of: Asystasia sp., Dacryodes edulis, Dissotis brazzae, Dissotis multiflora, Heterotis decumbens, Ipomoea asarifolia, Manihot utilissima, Otomeria guineensis	Ecology
+104682	Visits flowers of: Aspilia helianthoides, Asystasia gangetica, Gossypium sp., Phaseolus coccineus	Ecology
+104725	Visits flowers of: Cucurbitaceae, Haronga madagascariensis, Vismia rubescens	Ecology
+103057	Visits flowers of: Compositae, Cyphostemma sp., Dombeya sp., Emilia sp., Maesa lanceolata, Mapouria aegialodes, Mapouria sp., Phellolophium madagascariense (Phellolophium madagascariense), Psychotria sp., Rubus rosifolius, Senecio sp., Vernonia sp.	Ecology
+103050	Visits flowers of: Urena lobata	Ecology
+103667	Visits flowers of: Psychotria sp.	Ecology
+103791	Visits flowers of: Ipomoea pes-caprae, Merremia peltata	Ecology
+103748	Visits flowers of: Borreria sp., Borreria verticillata, Cogniauxia podolaena, Elephantopus mollis, Haronga madagascariensis, Vismia rubescens	Ecology
+103366	Visits flowers of: Urena lobata	Ecology
+103593	Visits flowers of: Mesembryanthemum guerichianum, Othonna arbuscula, Polymita albiflora	Ecology
+103568	Visits flowers of: Compositae, Geigeria sp., Othonna sp.	Ecology
+106222	Visits flowers of: Borreria verticillata	Ecology
+106177	Visits flowers of: Borreria verticillata, Cissus producta, Emilia coccinea, Polygonum lanigerum	Ecology
+105325	Visits flowers of: Zygophyllum retrofractum	Ecology
+111131	Visits flowers of: Boraginaceae, Cassia obovata, Chrozophora brocchiana, Cleome sp., Sorghum, Tagetes sp. (marigold)	Ecology
+111129	Visits flowers of: Aspilia bojeri, Borreria verticillata, Clerodendrum incisum, Compositae, Crotalaria sp., Indigofera sp., Ludwigia octovalvis, Triumfetta rhomboidea	Ecology
+111143	Visits flowers of: Acacia tortilis var. raddiana, Balanites aegyptiaca, Codon royenii, Trifolium alexandrinum (berseem)	Ecology
+111186	Visits flowers of: Dialypetalum floribundum	Ecology
+107574	Visits flowers of: Berkheya heterophylla, Compositae (annual composite), Foeniculum vulgare, Geigeria sp., Guiera senegalensis, Haronga madagascariensis, Leonotis nepetifolia, Lippia javanica, Melia azedarach, Polygonum pulchrum, Psoralea oligophylla, Rosa sp., Sesamum sp., Tagetes minuta	Ecology
+111323	Visits flowers of: Dichaetanthera sp., Exacum divaricatum, Gravesia vestita (Gravisia vestita), Tristemma virusanum	Ecology
+111288	Visits flowers of: Ageratum sp., Asystasia gangetica, Bidens pilosa, Chamaecrista sp., Compositae, Coreopsis grandiflora, Coreopsis tinctoria, Cucumis sativus, Dichapetalum leucosia, Dombeya sp., Emilia citrina, Euphorbia milii, Gaillardia sp., Haronga madagascariensis, Hieracium capense, Hypochaeris radicata, Kaliphora madagascariensis, Lobelia agrestis, Lobelia fervens, Ludwigia octovalvis, Merremia peltata, Nervilia petraea, Ocimum suave, Oldenlandia herbacea, Otiophora pauciflora, Polygonum chinense, Polystachya rosea, Portulaca sp., Premna corymbosa, Solanum nigrum, Solenostemon bojeri, Spermacoce scandens, Stachys sp., Tamarindus sp., Thunbergia alata, Trachypogon spicatus, Vernonia garnieriana, Waltheria madagascariensis, Xerophyta dasylirioides, Ziziphus sp.	Ecology
+111428	Visits flowers of: Cleome angustifolia, Compositae, Crotalaria argyraea, Crotalaria podocarpa, Eulophia streptopetala, Otoptera burchellii, Tephrosia oxygona	Ecology
+111418	Visits flowers of: Psoralea pinnata	Ecology
+111355	Visits flowers of: Euphorbia mauritanica	Ecology
+111415	Visits flowers of: Acacia karroo, Asclepias buchenaviana, Aspalathus chortophila, Blepharis capensis, Blepharis sp., Bulbine frutescens, Compositae, Cotyledon campanulata, Fabaceae (Caesalpiniaceae), Lasiocorys capensis, Mitracarpus sp., Polygalaceae, Senecio pterophorus	Ecology
+111412	Visits flowers of: Ipomoea pes-caprae, Premna sp., Stachytarpheta	Ecology
+111410	Visits flowers of: Acacia karroo, Acacia senegal, Acacia tortilis, Asclepias buchenaviana, Aspilia africana, Berkheya heterophylla, Blepharis capensis, Guiera senegalensis, Justicia sp., Mimosa pigra, Parkia sp., Virectaria multiflora	Ecology
+111198	Visits flowers of: Emilia citrina	Ecology
+111138	Visits flowers of: Aizoaceae, Calicorema capitata, Chamaesyce glanduligera, Compositae (daisy), Crotalaria damarensis, Deverra aphylla, Deverra denudata, Galenia papulosa, Hermannia engleri, Hermbstaedtia linearis, Indigofera sp., Limeum aethiopicum, Limeum myosotis, Malvaceae, Mesembryanthemaceae, Pentzia incana, Pentzia sphaerocephala, Polymita albiflora, Psilocaulon glareosum, Psilocaulon salicornioides, Sesuvium sesuvioides, Wahlenbergia sp., Zygophyllum clavatum, Zygophyllum simplex, Zygophyllum stapffii	Ecology
+111150	Visits flowers of: Alhagi pseudalhagi, Ocimum sp.	Ecology
+111144	Visits flowers of: Acacia tortilis var. raddiana, Cassia sp., Chrozophora brocchiana, Codon royenii, Euphorbia hirta, Guiera senegalensis, Landolphia sp. (?Landolphia sp.), Mangifera indica	Ecology
+111139	Visits flowers of: Cassia obovata	Ecology
+111161	Visits flowers of: Aptosimum arenarium, Blepharis obmitrata, Chamaesyce glanduligera, Cleome elegantissima, Cleome suffruticosa, Hermannia modesta, Hermbstaedtia odorata, Indigofera filipes, Indigofera heterotricha, Indigofera rautanenii, Kissenia capensis, Mesembryanthemaceae (yellow succulent), Monechma genistifolium, Ocimum americanum, Petalidium lanatum, Petalidium sp., Petalidium variabile, Sesuvium sesuvioides, Trichodesma sp., Zygophyllum simplex	Ecology
+111136	Visits flowers of: Cassia obovata, Ziziphus sp.	Ecology
+111187	Visits flowers of: Borreria sp., Haronga madagascariensis, Stachytarpheta angustifolia, Vismia rubescens	Ecology
+111178	Visits flowers of: Acacia sp., Acanthospermum hispidum, Borreria verticillata, Cassia sp., Erythroxylum platyclados, Euphorbia pulcherrima, Euphorbiaceae, Fabaceae (Papilionaceae), Gouania sp., Guiera senegalensis (Guiena senegalensis), Helinus integrifolius, Indigofera sp., Ipomoea pes-caprae, Kochneria madagascariensis, Lobelia agrestis, Mangifera indica, Mesembryanthemum sp., Mitracarpus scaber, Oldenlandia sp., Portulaca sp., Rhoicissus digitata, Tamarindus sp., Terminalia prunioides, Terminalia pumila, Tribulus sp., Triumfetta rhomboidea, Ziziphus sp., Zygophyllum simplex	Ecology
+111534	Visits flowers of: Polymita albiflora, Prenia pallens, Zygophyllum retrofractum	Ecology
+111754	Visits flowers of: Euphorbia decussata	Ecology
+111528	Visits flowers of: Aspilia pluriseta, Asystasia gangetica, Justicia ladanoides, Justicia sp., Orthosiphon rubicundus, Persea americana, Platystoma africana, Plectranthus sp., Trichodesma zeylanicum	Ecology
+111558	Visits flowers of: Acacia gerrardii	Ecology
+111789	Visits flowers of: Geigeria sp.	Ecology
+111763	Visits flowers of: Zygophyllum cordifolium	Ecology
+111758	Visits flowers of: Aspalathus divaricata, Fabaceae (Papilionaceae), Psoralea sp.	Ecology
+111449	Visits flowers of: Peltophorum	Ecology
+111439	Visits flowers of: Grewia sp., Lonchocarpus madagascariensis, Psorospermum malifolium	Ecology
+111518	Visits flowers of: Anthocleista amplexicaulis, Dichaetanthera sp.	Ecology
+111517	Visits flowers of: Compositae, Geigeria sp., Othonna sp.	Ecology
+111516	Visits flowers of: Orchidaceae	Ecology
+111508	Visits flowers of: Asystasia sp., Dichaetanthera sp., Exacum divaricatum, Mapouria sp., Rosa x-alba	Ecology
+111505	Visits flowers of: Mimosa pudica, Stachytarpheta angustifolia, Tristemma virusanum	Ecology
+111460	Visits flowers of: Ageratum conyzoides, Albizia sp., Amaranthus hybridus, Antigonon leptopus, Asystasia gangetica, Bidens pilosa, Borreria verticillata, Cajanus cajan, Calliandra calothyrsus, Citrus aurantifolia, Citrus sp., Coffea sp. (coffee), Cyperus sp., Dacryodes edulis, Elephantopus mollis, Eucalyptus robusta, Eucalyptus sp., Genipa clusiifolia, Gouania longipetala, Haronga madagascariensis, Ipomoea involucrata, Leucaena leucocephala, Mangifera indica, Manihot utilissima, Mikania cordata, Musa sp., Nauclea latifolia, Passiflora edulis, Paullinia pinnata, Polygonum lanigerum, Psidium guajava, Sesamum sp., Sida rhombifolia, Solenostemon sp., Synedrella nodiflora, Triumfetta eriophlebia, Urena lobata, Vismia rubescens, Zea mays	Ecology
+111511	Visits flowers of: Emilia citrina, Impatiens lyalli, Tristemma virusanum	Ecology
+110883	Visits flowers of: Indigofera auricoma, Indigofera rautanenii, Indigofera sp., Ocimum americanum, Petalidium sp.	Ecology
+110890	Visits flowers of: Gisekia africana, Heeria paniculosa, Heliotropium rariflorum, Indigofera auricoma, Indigofera rautanenii, Indigofera sp., Mesembryanthemum sp., Ocimum americanum, Ozoroa paniculosa var. salicina, Senna italica, Tribulus cristatus, Zygophyllum simplex	Ecology
+110889	Visits flowers of: Gisekia africana, Limeum arqute-carinatum, Limeum fenestratum, Sesuvium sesuvioides	Ecology
+110886	Visits flowers of: Tribulus sp.	Ecology
+110884	Visits flowers of: Mesembryanthemum sp., Ruschia uncinata	Ecology
+110897	Visits flowers of: Aptosimum procumbens, Merremia palmata, Senecio sp.	Ecology
+110880	Visits flowers of: Indigofera rautanenii	Ecology
+111120	Visits flowers of: Stachytarpheta angustifolia	Ecology
+110885	Visits flowers of: Gisekia africana, Limeum arqute-carinatum, Limonium sp. (Limoneum sp.), Mollugo cerviana, Sesuvium sesuvioides, Tephrosia burchellii	Ecology
+110925	Visits flowers of: Sorghum arundinaceum	Ecology
+110901	Visits flowers of: Convolvulus sp.	Ecology
+110849	Visits flowers of: Protea sp.	Ecology
+110932	Visits flowers of: Acacia farnesiana, Bidens pilosa, Borreria verticillata, Cardiochlamys madagascariensis, Emilia citrina, Heteropogon contortus, Leersia hexandra, Paspalum sp., Poaceae, Stenotaphrum dimidiatum, Triumfetta rhomboidea, Verbena brasiliensis, Zea mays	Ecology
+111054	Visits flowers of: Cassia occidentalis, Paspalum orbiculare, Paspalum vaginatum, Sorghum arundinaceum	Ecology
+110930	Visits flowers of: Ludwigia octovalvis	Ecology
+111022	Visits flowers of: Leea guineensis	Ecology
+111113	Visits flowers of: Acacia karroo, Maytenus linearis, Ziziphus mucronata	Ecology
+111066	Visits flowers of: Acroceras zizanioides, Ammannia sp., Arachis hypogaea, Borreria verticillata, Capsicum annuum, Carica papaya, Dacryodes edulis, Dichostemma glaucescens, Duranta repens, Elephantopus mollis, Euphorbia heterophylla, Fabaceae (Papilionaceae), Haronga madagascariensis, Indigofera sp., Lantana camara, Lycopersicon lycopersicum, Mangifera indica, Passiflora edulis, Persea americana, Scoparia dulcis, Synedrella nodiflora, Talinum portulacifolium, Tetraberlinia bifoliolata, Triumfetta eriophlebia, Triumfetta rhomboidea, Vernonia conferta	Ecology
+111090	Visits flowers of: Tetracera rutenbergi	Ecology
+111067	Visits flowers of: Aspalathus subtingens	Ecology
+111087	Visits flowers of: Acanthospermum hispidum, Acroceras zizanioides, Cleome ciliata, Combretum racemosum, Croton hirtus, Dicliptera verticillata, Eclipta sp., Heterotis decumbens, Indigofera sp., Mikania cordata, Mimosa pudica, Poaceae, Stachytarpheta angustifolia, Synedrella nodiflora, Uraria picta, Zea mays	Ecology
+111080	Visits flowers of: Adenolobus pechuelii, Blepharis obmitrata, Boerhavia deserticola, Cleome suffruticosa, Compositae (daisy), Cucurbitaceae (cucurbit), Geigeria acaulis, Gisekia africana, Grewia bicolor, Heliotropium rariflorum, Hermannia sp., Indigofera rautanenii, Lamiaceae (Labiatae), Limeum myosotis, Monechma genistifolium, Sesuvium sesuvioides, Terminalia prunioides, Tribulocarpus dimorphanthus, Tribulus sp.	Ecology
+111076	Visits flowers of: Indigofera sp., Vigna angivensis	Ecology
+111075	Visits flowers of: Crotalaria macrocalyx, Polygala petitiana	Ecology
+111093	Visits flowers of: Cassia sp., Tamarix sp., Ziziphus sp.	Ecology
+110945	Visits flowers of: Euphorbia heterophylla, Paspalum orbiculare, Sorghum arundinaceum	Ecology
+110976	Visits flowers of: [unnamed], Antigonon leptopus, Oryza sativa, Sesamum sp., Sorghum arundinaceum, Stachytarpheta angustifolia, Zea mays	Ecology
+110931	Visits flowers of: Sida acuta	Ecology
+110998	Visits flowers of: [unnamed], Asclepias sp., Indigofera paniculata, Mariscus cylindristachyus	Ecology
+111014	Visits flowers of: Sida acuta	Ecology
+109101	Visits flowers of: Ziziphus spina-christi	Ecology
+109096	Visits flowers of: Crotalaria sp.	Ecology
+109198	Visits flowers of: Dacryodes edulis	Ecology
+108761	Visits flowers of: Cajanus cajan, Sesamum sp., Stachytarpheta angustifolia	Ecology
+108988	Visits flowers of: Lonchocarpus madagascariensis	Ecology
+109684	Visits flowers of: Albuca sp., Aspalathus spinescens, Ballota africana, Hermannia disermifolia, Lebeckia sericea, Pisum sativum (pea), Polygala virgata, Pteronia sp., Zygophyllum meyeri, Zygophyllum sp.	Ecology
+109792	Visits flowers of: Crotalaria sp.	Ecology
+109859	Visits flowers of: Anchusa capensis, Aspalathus linearis, Aspalathus pulicifolia, Fabaceae (Papilionaceae), Lebeckia sericea, Lebeckia simsiana, Stachys aurea	Ecology
+105846	Host: Halictus jucundus	Ecology
+107123	Host: Colletes, Tetralonia	Ecology
+109298	Host: Chalicodoma (Gronoceras) cincta	Ecology
+109568	Host: Megachile	Ecology
+111486	Host: Halictus	Ecology
+111490	Host: Halictus	Ecology
+111862	Host: Megachile latitarsis	Ecology
+111889	Host: Megachile	Ecology
+112397	Host: Allodape interrupta	Ecology
+112465	Host: Braunsapis facialis, Braunsapis leptozonia	Ecology
+112490	Host: Allodape elizabethana, Allodape paradoxa, Allodape pringlei, Allodapula variegata	Ecology
+112491	Host: Allodapula melanopus	Ecology
+112519	Host: Macrogalea candida	Ecology
+112523	Host: Braunsapis facialis	Ecology
+112530	Host: Melitta capensis	Ecology
+112553	Host: Nomia	Ecology
+112554	Host: Nomia garua	Ecology
+112555	Host: Thrinchostoma (Thrinchostoma vadoni)	Ecology
+112766	Host: Anthophora vestita	Ecology
+112767	Host: Amegilla punctifrons	Ecology
+112773	Host: Amegilla punctifrons, Anthophora circulata	Ecology
+112778	Host: Anthophora (Anthophora (= ?Amegilla))	Ecology
+112784	Host: Anthophora braunsiana	Ecology
+112786	Host: Anthophora	Ecology
+112791	Host: Amegilla vivida, Anthophora (Anthophora [= ?Amegilla])	Ecology
+112793	Host: Anthophora	Ecology
+112795	Host: Amegilla (Zebramegilla) antimena	Ecology
+112799	Host: Anthophora	Ecology
+112807	Host: Hypotrigona, Liotrigona	Ecology
+111846	Host: Megachile	Ecology
+111842	Host: Megachile nasutula	Ecology
+111878	Host: Megachile	Ecology
+111861	Host: Anthophora krebsi	Ecology
+111884	Host: Megachile gratiosella, Megachile semiflava	Ecology
+111866	Host: Megachile, Megachile submetallica	Ecology
+112541	Host: Colletes abessinicus	Ecology
+112762	Host: Habropoda festiva	Ecology
+112425	Host: Allodapula	Ecology
+111199	Host: Lasioglossum (Ctenonomia) mahense	Ecology
+3172	Nests in: Eucalyptus sp., Jacaranda sp., Melia azedarach, Podocarpus gracilior	Ecology
+104279	Nests in: Elytropappus rhinocerotis	Ecology
+104393	Nests in: Aloe ferox	Ecology
+104707	Nests in: Agauria salicifolia, Alangium chinense, Bersama abyssinica, Chrysophyllum albidum, Chrysophyllum gorungosanum, Cupressus lusitanica, Ekebergia capensis, Entandrophragma cylindricum, Faurea saligna, Ficalhoa laurifolia, Ficus sp., Hagenia abyssinica, Maytenus acuminata, Myrica salicifolia, Olinia usambarensis, Parinari excelsa, Podocarpus milanjianus, Polyscias fulva, Premna angolensis, Prunus africana, Strombosia scheffleri, Syzygium guineense, Xymalos monospora, Zanthoxylum gilletii	Ecology
+104753	Nests in: Ficus sp., Maesa lanceolata, Xymalos monospora	Ecology
+106814	Nests in: Cotyledon paniculata	Ecology
+106934	Nests in: Rubus rigidus	Ecology
+107336	Nests in: Metalasia muricata, Pinus sp., Psoralea aphylla	Ecology
+107391	Nests in: Annona senegalensis	Ecology
+107495	Nests in: Aloe marlothii, Ficus sp., Pinus sp.	Ecology
+107534	Nests in: Aloe littoralis, Hibiscus cannabinus, Hyparrhenia dissoluta, Jacaranda, Poaceae (roof thatch)	Ecology
+107604	Nests in: Berkheya sp.	Ecology
+107617	Nests in: Aspilia africana, Aspilia helianthoides, Borreria verticillata, Croton hirtus, Sesamum indicum, Virectaria multiflora	Ecology
+107639	Nests in: Aloe ferox	Ecology
+107684	Nests in: Aloe littoralis, Bequaertiodendron magalismontanum, Jacaranda sp., Uapaca kirkiana	Ecology
+110011	Nests in: Jacaranda sp., Pterocarpus sp., Uapaca kirkiana	Ecology
+110051	Nests in: Acacia albida, Agave sp., Erythrina sp., Jacaranda sp., Melia azedarach, Pinus patula, Pterocarpus sp., Spathodea sp., Syzygium cordatum, Uapaca kirkiana	Ecology
+110100	Nests in: Aloe littoralis, Aloe marlothii, Commiphora sp., Ficus sycomorus, Malvaceae (mallow), Paranomus bracteolaris, Phragmites australis, Pinus patula, Polygala leptophylla, Prosopis chilensis, Protea sp., Salix babylonica, Widdringtonia cedarbergensis	Ecology
+110140	Nests in: Protea sp., Widdringtonia sp.	Ecology
+111464	Nests in: Antidesma venosum, Ficus umbellata, Heeria insignis, Pseudocadia zambesiaca, Spirostachys africana	Ecology
+111595	Nests in: Erythrina sp.	Ecology
+111823	Nests in: Cajanus cajan (pigeon pea)	Ecology
+112299	Nests in: Aloe mitriformis	Ecology
+112303	Nests in: Ballota africana	Ecology
+112306	Nests in: Ballota africana, Compositae, Cotyledon paniculata, Ricinus communis, Salvia africana-caerulea (Salvia africana)	Ecology
+112325	Nests in: Aloe sp.	Ecology
+112364	Nests in: Stachytarpheta angustifolia	Ecology
+112377	Nests in: Kniphofia sp.	Ecology
+112386	Nests in: Amaryllidaceae, Liliaceae, Rubus sp.	Ecology
+112404	Nests in: Aloe sp., Aristida sp., Gladiolus sp., Iridaceae, Osmitopsis sp., Watsonia sp.	Ecology
+112417	Nests in: Berkheya decurrans	Ecology
+112449	Nests in: Schinus terebinthifolius	Ecology
+112451	Nests in: Bidens sp., Lantana camara	Ecology
+112456	Nests in: Bidens sp., Lantana camara, Poaceae (coarse grass)	Ecology
+112462	Nests in: Lantana camara, Scaevola taccada	Ecology
+112463	Nests in: Ficus sp., Scaevola taccada, Urena lobata	Ecology
+112470	Nests in: Liliaceae	Ecology
+112480	Nests in: Acacia karroo	Ecology
+112520	Nests in: Scaevola taccada	Ecology
+130479	Nests in: Stipagrostis sabulicola (probably nests in Stipagrostis sabulicola)	Ecology
+112811	Nests in: Alangium chinense, Albizia gummifera, Carapa grandiflora, Chrysophyllum albidum, Cupressus lusitanica, Drypetes gerrardii, Entandrophragma excelsum, Ficalhoa laurifolia, Ficus sp., Glyphaea brevis, Maesa lanceolata, Parinari excelsa, Prunus africana, Strombosia scheffleri, Syzygium guineense, Triumfetta macrophylla	Ecology
+112215	Nests in: Jacaranda sp., Nerium oleander, Pinus sp.	Ecology
+112202	Nests in: Cordia ovalis, Eucalyptus sp., Euphorbia abyssinica, Ficus sycomorus, Juniperus procera, Podocarpus gracilior	Ecology
+112225	Nests in: Dombeya sp., Philippia sp., Pinus patula, Podocarpus gracilior, Strelitzia nicolai, Widdringtonia sp.	Ecology
+112192	Nests in: Eucalyptus sp., Jacaranda sp., Podocarpus gracilior, Spathodea sp., Syzygium cordatum, Syzygium guineense	Ecology
+112317	Nests in: Citrus x limon (lemon), Dolichos lablab (lubia), Gossypium sp. (cotton), Poinciana sp.	Ecology
+112338	Nests in: Scaevola taccada	Ecology
+112336	Nests in: Bougainvillea sp.	Ecology
+112353	Nests in: Bougainvillea sp., Caesalpinia pulcherrima, Lantana camara, Poinciana regina	Ecology
+112308	Nests in: Gossypium sp. (cotton stems)	Ecology
+112300	Nests in: Aptosimum procumbens, Artemisia afra, Aspalathus spinescens, Fabaceae (papilionate), Foeniculum vulgare, Fuchsia sp., Iboza riparia, Lasiospermum bipinnatum, Lobelia linearis, Melia azedarach, Mesembryanthemaceae, Rubus sp., Selago corymbosa, Senecio ilicifolius, Senecio sp., Wahlenbergia annularis, Wahlenbergia nodosa, Wahlenbergia sp., Watsonia sp.	Ecology
+112332	Nests in: Caesalpinia pulcherrima, Lantana camara, Rubus rigidus	Ecology
+112375	Nests in: Dolichos lablab, Poinciana sp.	Ecology
+112374	Nests in: Bougainvillea sp., Caesalpinia pulcherrima, Lantana camara	Ecology
+112292	Nests in: Pinus sp., Psoralea aphylla	Ecology
+112268	Nests in: Bambuseae (bamboo), Berkheya sp., Helianthus sp., Phragmites australis, Rafnia amplexicaulus, Ruschia sp., Senecio rosmarinifolius, Wiborgia sp.	Ecology
+104315	Nests in: Barleria pungens	Ecology
+111460	Nests in: Agauria salicifolia, Alangium chinense, Albizia gummifera, Carapa grandiflora, Chrysophyllum gorungosanum, Cupressus lusitanica, Dichaetanthera corymbosa, Drypetes gerrardii, Ekebergia capensis, Eucalyptus sp., Faurea saligna, Ficalhoa laurifolia, Maesa lanceolata, Maytenus acuminata, Myrica salicifolia, Olinia usambarensis, Parinari excelsa, Prunus africana, Schefflera barteri, Strombosia scheffleri, Syzygium guineense, Zanthoxylum gilletii, Zanthoxylum macrophyllum	Ecology
+3172	Parasite: Coelopencyrtus callainus, Hyperechia bifasciata, Hyperechia nigripennis	Ecology
+102979	Parasite: Cynips sp.	Ecology
+104393	Parasite: Coelioxys lativentroides	Ecology
+105404	Parasite: Coelopencyrtus nothylaei	Ecology
+105609	Parasite: Ammobatoides braunsi	Ecology
+106642	Parasite: Morgania barkeri	Ecology
+107320	Parasite: Dinogamasus collarti, Dinogamasus crassipes, Hyperechia consimilis	Ecology
+107336	Parasite: Anthrax badius	Ecology
+107360	Parasite: Dinogamasus villosior	Ecology
+107391	Parasite: Dinogamasus heteraspis	Ecology
+107467	Parasite: Dinogamasus acutus	Ecology
+107470	Parasite: Sennertia madagascarensis	Ecology
+107495	Parasite: Anthrax plumipes	Ecology
+107534	Parasite: Zonitoschema coccinea	Ecology
+107629	Parasite: Micrapion sp.	Ecology
+107639	Parasite: Gasteruption robustum, Gasteruption xylocopae, Sitaris sp., Synhoria hottentota, Synhoria sp.	Ecology
+107657	Parasite: Dinogamasus villosior	Ecology
+107684	Parasite: Dinogamasus braunsi, Hyperechia consimilis, Physocephala bimarginipennis	Ecology
+107734	Parasite: Dinogamasus villosior	Ecology
+107810	Parasite: Thyreus calceatus	Ecology
+107920	Parasite: Thyreus alfkeni, Thyreus delumbatus	Ecology
+108494	Parasite: Crocisa braunsiana	Ecology
+108719	Parasite: Crocisa subcontinua	Ecology
+109088	Parasite: Drosophilidae	Ecology
+110011	Parasite: Physocephala bimarginipennis	Ecology
+110051	Parasite: Coelopencyrtus callainus, Coelopencyrtus taylori, Coelopencyrtus watmoughi, Dinogamasus villosior, Hyperechia bifasciata, Hyperechia imitator, Hyperechia marshalli, Paralipsa exacta, Physocephala bimarginipennis, Synhoria hottentota, Synhoria sp.	Ecology
+110100	Parasite: Anthrax badius, Coelopencyrtus callainus, Dinogamasus braunsi, Dinogamasus cockerelli, Hyperechia bifasciata, Hyperechia nigripennis, Physocephala bimarginipennis, Sennertia sp., Synhoria hottentota	Ecology
+110109	Parasite: Horstia tanzaniensis	Ecology
+110140	Parasite: Synhoria sp.	Ecology
+110144	Parasite: Dinogamasus villosior	Ecology
+110164	Parasite: Dinogamasus parvus	Ecology
+110599	Parasite: Drosophilidae	Ecology
+110693	Parasite: Epeolus kristenseni	Ecology
+110780	Parasite: Pseudodichroa fumipennis	Ecology
+110787	Parasite: Sphecodopsis capensis	Ecology
+111010	Parasite: Cerceris sp.	Ecology
+111039	Parasite: Cerceris sp.	Ecology
+111383	Parasite: Halictoxenos knereri	Ecology
+111593	Parasite: Chaetodactylus ludwigi	Ecology
+111595	Parasite: Mutilla baucis	Ecology
+111627	Parasite: Cerophagus heriades, Histiostoma heriades	Ecology
+112316	Parasite: Horstia tanzaniensis	Ecology
+112362	Parasite: Chaetodactylus leleupi	Ecology
+112393	Parasite: Xylencyrtus tridens	Ecology
+112398	Parasite: Allodape greatheadi	Ecology
+112404	Parasite: Xylencyrtus tridens	Ecology
+112408	Parasite: Xylencyrtus tridens	Ecology
+112417	Parasite: Xylencyrtus tridens	Ecology
+112448	Parasite: Eucondylops konowi	Ecology
+112449	Parasite: Braunsapis natalica, Nasutapis straussorum	Ecology
+112456	Parasite: Braunsapis natalica, Xylencyrtus tridens	Ecology
+112470	Parasite: Eucondylops konowi	Ecology
+112512	Parasite: Macrogalea mombasae	Ecology
+112538	Parasite: Colletes resedae	Ecology
+113102	Parasite: Sennertia elseni	Ecology
+111986	Parasite: Horstia tanzaniensis	Ecology
+112062	Parasite: Horstia tanzaniensis	Ecology
+112145	Parasite: Megachilopus uellensis	Ecology
+111913	Parasite: Coelioxys scioensis	Ecology
+112435	Parasite: Eucondylops konowi	Ecology
+112215	Parasite: Coelopencyrtus callainus, Coelopencyrtus taylori, Dinogamasus oudemansi, Dinogamasus productus	Ecology
+112202	Parasite: Dinogamasus villosior	Ecology
+112201	Parasite: Dinogamasus brevihirtus	Ecology
+112225	Parasite: Physocephala bimarginipennis	Ecology
+112237	Parasite: Dinogamasus braunsi	Ecology
+112192	Parasite: Dinogamasus cockerelli, Horstia helenae, Horstia tanzaniensis, Megachilopus uellensis, Sennertia elseni	Ecology
+112185	Parasite: Dinogamasus braunsi	Ecology
+112345	Parasite: Chaetodactylus leleupi	Ecology
+112353	Parasite: Sennertia latipilis	Ecology
+112328	Parasite: Chaetodactylus leleupi	Ecology
+112300	Parasite: Gasteruption vicium	Ecology
+112429	Parasite: Eucondylops reducta, Xylencyrtus mumifex	Ecology
+112374	Parasite: Micrapion clavaforme, Micrapion dalyi	Ecology
+112292	Parasite: Dinogamasus braunsi	Ecology
+112259	Parasite: Dinogamasus bequaerti, Hyperechia imitator	Ecology
+112262	Parasite: Synhoria sp.	Ecology
+112245	Parasite: Dinogamasus villosior	Ecology
+112287	Parasite: Hyperechia imitator	Ecology
+112268	Parasite: Gasteruption robustum, Hyperechia bifasciata, Physocephala bimarginipennis	Ecology
+107574	Parasite: Calosota robusta, Gasteruption exsectum, Micrapion nasutum	Ecology
+107342	Parasite: Dinogamasus collarti	Ecology
+111412	Parasite: Megachilopus uellensis	Ecology
+111439	Parasite: Coelioxys madagascariensis	Ecology
